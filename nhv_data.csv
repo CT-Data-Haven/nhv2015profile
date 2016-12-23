@@ -1,0 +1,324 @@
+Neighborhood,indicator,value
+Amity,total_pop,4794.0
+Annex,total_pop,6230.0
+Beaver Hills,total_pop,5521.0
+Dixwell,total_pop,4898.0
+Downtown,total_pop,10798.0
+Dwight,total_pop,3915.0
+East Rock,total_pop,8392.0
+East Shore,total_pop,4917.0
+Edgewood,total_pop,4420.0
+Fair Haven,total_pop,16907.0
+Fair Haven Heights,total_pop,7221.0
+Hill,total_pop,16792.0
+Newhallville,total_pop,5573.0
+Prospect Hill,total_pop,4059.0
+Quinnipiac Meadows,total_pop,5835.0
+West River,total_pop,3960.0
+West Rock,total_pop,4132.0
+Westville,total_pop,8830.0
+Wooster Square/Mill River,total_pop,3418.0
+Amity,percent_pop_0_17,0.267
+Annex,percent_pop_0_17,0.231
+Beaver Hills,percent_pop_0_17,0.312
+Dixwell,percent_pop_0_17,0.208
+Downtown,percent_pop_0_17,0.036
+Dwight,percent_pop_0_17,0.203
+East Rock,percent_pop_0_17,0.133
+East Shore,percent_pop_0_17,0.204
+Edgewood,percent_pop_0_17,0.253
+Fair Haven,percent_pop_0_17,0.292
+Fair Haven Heights,percent_pop_0_17,0.188
+Hill,percent_pop_0_17,0.298
+Newhallville,percent_pop_0_17,0.275
+Prospect Hill,percent_pop_0_17,0.21
+Quinnipiac Meadows,percent_pop_0_17,0.239
+West River,percent_pop_0_17,0.238
+West Rock,percent_pop_0_17,0.121
+Westville,percent_pop_0_17,0.214
+Wooster Square/Mill River,percent_pop_0_17,0.167
+Amity,percent_pop_65plus,0.088
+Annex,percent_pop_65plus,0.094
+Beaver Hills,percent_pop_65plus,0.104
+Dixwell,percent_pop_65plus,0.11
+Downtown,percent_pop_65plus,0.059
+Dwight,percent_pop_65plus,0.081
+East Rock,percent_pop_65plus,0.085
+East Shore,percent_pop_65plus,0.175
+Edgewood,percent_pop_65plus,0.104
+Fair Haven,percent_pop_65plus,0.073
+Fair Haven Heights,percent_pop_65plus,0.208
+Hill,percent_pop_65plus,0.089
+Newhallville,percent_pop_65plus,0.15
+Prospect Hill,percent_pop_65plus,0.108
+Quinnipiac Meadows,percent_pop_65plus,0.096
+West River,percent_pop_65plus,0.122
+West Rock,percent_pop_65plus,0.079
+Westville,percent_pop_65plus,0.133
+Wooster Square/Mill River,percent_pop_65plus,0.09
+Amity,percent_hispanic,0.154
+Annex,percent_hispanic,0.416
+Beaver Hills,percent_hispanic,0.179
+Dixwell,percent_hispanic,0.155
+Downtown,percent_hispanic,0.104
+Dwight,percent_hispanic,0.314
+East Rock,percent_hispanic,0.107
+East Shore,percent_hispanic,0.04
+Edgewood,percent_hispanic,0.111
+Fair Haven,percent_hispanic,0.649
+Fair Haven Heights,percent_hispanic,0.393
+Hill,percent_hispanic,0.46
+Newhallville,percent_hispanic,0.17
+Prospect Hill,percent_hispanic,0.091
+Quinnipiac Meadows,percent_hispanic,0.214
+West River,percent_hispanic,0.352
+West Rock,percent_hispanic,0.119
+Westville,percent_hispanic,0.104
+Wooster Square/Mill River,percent_hispanic,0.241
+Amity,percent_white,0.233
+Annex,percent_white,0.31
+Beaver Hills,percent_white,0.171
+Dixwell,percent_white,0.146
+Downtown,percent_white,0.572
+Dwight,percent_white,0.214
+East Rock,percent_white,0.683
+East Shore,percent_white,0.729
+Edgewood,percent_white,0.243
+Fair Haven,percent_white,0.12
+Fair Haven Heights,percent_white,0.346
+Hill,percent_white,0.118
+Newhallville,percent_white,0.003
+Prospect Hill,percent_white,0.36
+Quinnipiac Meadows,percent_white,0.252
+West River,percent_white,0.135
+West Rock,percent_white,0.509
+Westville,percent_white,0.559
+Wooster Square/Mill River,percent_white,0.503
+Amity,percent_black,0.548
+Annex,percent_black,0.236
+Beaver Hills,percent_black,0.605
+Dixwell,percent_black,0.652
+Downtown,percent_black,0.098
+Dwight,percent_black,0.39
+East Rock,percent_black,0.068
+East Shore,percent_black,0.182
+Edgewood,percent_black,0.577
+Fair Haven,percent_black,0.205
+Fair Haven Heights,percent_black,0.216
+Hill,percent_black,0.364
+Newhallville,percent_black,0.808
+Prospect Hill,percent_black,0.243
+Quinnipiac Meadows,percent_black,0.413
+West River,percent_black,0.472
+West Rock,percent_black,0.307
+Westville,percent_black,0.267
+Wooster Square/Mill River,percent_black,0.188
+Amity,percent_other_race,0.065
+Annex,percent_other_race,0.038
+Beaver Hills,percent_other_race,0.045
+Dixwell,percent_other_race,0.047
+Downtown,percent_other_race,0.226
+Dwight,percent_other_race,0.082
+East Rock,percent_other_race,0.142
+East Shore,percent_other_race,0.049
+Edgewood,percent_other_race,0.069
+Fair Haven,percent_other_race,0.026
+Fair Haven Heights,percent_other_race,0.044
+Hill,percent_other_race,0.058
+Newhallville,percent_other_race,0.02
+Prospect Hill,percent_other_race,0.306
+Quinnipiac Meadows,percent_other_race,0.12
+West River,percent_other_race,0.041
+West Rock,percent_other_race,0.064
+Westville,percent_other_race,0.07
+Wooster Square/Mill River,percent_other_race,0.069
+Amity,percent_foreign_born,0.148
+Annex,percent_foreign_born,0.264
+Beaver Hills,percent_foreign_born,0.13
+Dixwell,percent_foreign_born,0.091
+Downtown,percent_foreign_born,0.231
+Dwight,percent_foreign_born,0.229
+East Rock,percent_foreign_born,0.258
+East Shore,percent_foreign_born,0.067
+Edgewood,percent_foreign_born,0.121
+Fair Haven,percent_foreign_born,0.186
+Fair Haven Heights,percent_foreign_born,0.103
+Hill,percent_foreign_born,0.152
+Newhallville,percent_foreign_born,0.091
+Prospect Hill,percent_foreign_born,0.265
+Quinnipiac Meadows,percent_foreign_born,0.192
+West River,percent_foreign_born,0.162
+West Rock,percent_foreign_born,0.129
+Westville,percent_foreign_born,0.144
+Wooster Square/Mill River,percent_foreign_born,0.136
+Amity,households,1839.0
+Annex,households,2380.0
+Beaver Hills,households,2065.0
+Dixwell,households,1832.0
+Downtown,households,4261.0
+Dwight,households,1695.0
+East Rock,households,3852.0
+East Shore,households,2067.0
+Edgewood,households,1836.0
+Fair Haven,households,5744.0
+Fair Haven Heights,households,3172.0
+Hill,households,5268.0
+Newhallville,households,2480.0
+Prospect Hill,households,1637.0
+Quinnipiac Meadows,households,2104.0
+West River,households,1497.0
+West Rock,households,843.0
+Westville,households,3604.0
+Wooster Square/Mill River,households,1595.0
+Amity,homeownership,0.496
+Annex,homeownership,0.428
+Beaver Hills,homeownership,0.439
+Dixwell,homeownership,0.143
+Downtown,homeownership,0.093
+Dwight,homeownership,0.103
+East Rock,homeownership,0.282
+East Shore,homeownership,0.695
+Edgewood,homeownership,0.234
+Fair Haven,homeownership,0.199
+Fair Haven Heights,homeownership,0.295
+Hill,homeownership,0.214
+Newhallville,homeownership,0.309
+Prospect Hill,homeownership,0.272
+Quinnipiac Meadows,homeownership,0.44
+West River,homeownership,0.159
+West Rock,homeownership,0.146
+Westville,homeownership,0.473
+Wooster Square/Mill River,homeownership,0.215
+Amity,pov_rate,0.214
+Annex,pov_rate,0.249
+Beaver Hills,pov_rate,0.254
+Dixwell,pov_rate,0.328
+Downtown,pov_rate,0.231
+Dwight,pov_rate,0.377
+East Rock,pov_rate,0.131
+East Shore,pov_rate,0.025
+Edgewood,pov_rate,0.23
+Fair Haven,pov_rate,0.341
+Fair Haven Heights,pov_rate,0.168
+Hill,pov_rate,0.447
+Newhallville,pov_rate,0.334
+Prospect Hill,pov_rate,0.149
+Quinnipiac Meadows,pov_rate,0.254
+West River,pov_rate,0.32
+West Rock,pov_rate,0.388
+Westville,pov_rate,0.101
+Wooster Square/Mill River,pov_rate,0.295
+Amity,low_inc_rate,0.396
+Annex,low_inc_rate,0.472
+Beaver Hills,low_inc_rate,0.472
+Dixwell,low_inc_rate,0.54
+Downtown,low_inc_rate,0.388
+Dwight,low_inc_rate,0.712
+East Rock,low_inc_rate,0.283
+East Shore,low_inc_rate,0.127
+Edgewood,low_inc_rate,0.458
+Fair Haven,low_inc_rate,0.635
+Fair Haven Heights,low_inc_rate,0.445
+Hill,low_inc_rate,0.729
+Newhallville,low_inc_rate,0.626
+Prospect Hill,low_inc_rate,0.313
+Quinnipiac Meadows,low_inc_rate,0.419
+West River,low_inc_rate,0.604
+West Rock,low_inc_rate,0.559
+Westville,low_inc_rate,0.196
+Wooster Square/Mill River,low_inc_rate,0.499
+Amity,percent_income_5xfpl,0.174
+Annex,percent_income_5xfpl,0.132
+Beaver Hills,percent_income_5xfpl,0.233
+Dixwell,percent_income_5xfpl,0.131
+Downtown,percent_income_5xfpl,0.281
+Dwight,percent_income_5xfpl,0.117
+East Rock,percent_income_5xfpl,0.38
+East Shore,percent_income_5xfpl,0.41
+Edgewood,percent_income_5xfpl,0.193
+Fair Haven,percent_income_5xfpl,0.043
+Fair Haven Heights,percent_income_5xfpl,0.194
+Hill,percent_income_5xfpl,0.066
+Newhallville,percent_income_5xfpl,0.05
+Prospect Hill,percent_income_5xfpl,0.28
+Quinnipiac Meadows,percent_income_5xfpl,0.188
+West River,percent_income_5xfpl,0.11
+West Rock,percent_income_5xfpl,0.168
+Westville,percent_income_5xfpl,0.44
+Wooster Square/Mill River,percent_income_5xfpl,0.228
+Amity,child_pov_rate,0.329
+Annex,child_pov_rate,0.404
+Beaver Hills,child_pov_rate,0.287
+Dixwell,child_pov_rate,0.493
+Downtown,child_pov_rate,0.365
+Dwight,child_pov_rate,0.446
+East Rock,child_pov_rate,0.172
+East Shore,child_pov_rate,0.0
+Edgewood,child_pov_rate,0.169
+Fair Haven,child_pov_rate,0.446
+Fair Haven Heights,child_pov_rate,0.158
+Hill,child_pov_rate,0.618
+Newhallville,child_pov_rate,0.447
+Prospect Hill,child_pov_rate,0.131
+Quinnipiac Meadows,child_pov_rate,0.439
+West River,child_pov_rate,0.399
+West Rock,child_pov_rate,0.531
+Westville,child_pov_rate,0.022
+Wooster Square/Mill River,child_pov_rate,0.463
+Amity,child_low_inc_rate,0.523
+Annex,child_low_inc_rate,0.63
+Beaver Hills,child_low_inc_rate,0.543
+Dixwell,child_low_inc_rate,0.772
+Downtown,child_low_inc_rate,0.401
+Dwight,child_low_inc_rate,0.882
+East Rock,child_low_inc_rate,0.332
+East Shore,child_low_inc_rate,0.116
+Edgewood,child_low_inc_rate,0.476
+Fair Haven,child_low_inc_rate,0.734
+Fair Haven Heights,child_low_inc_rate,0.506
+Hill,child_low_inc_rate,0.915
+Newhallville,child_low_inc_rate,0.75
+Prospect Hill,child_low_inc_rate,0.439
+Quinnipiac Meadows,child_low_inc_rate,0.631
+West River,child_low_inc_rate,0.755
+West Rock,child_low_inc_rate,0.757
+Westville,child_low_inc_rate,0.081
+Wooster Square/Mill River,child_low_inc_rate,0.729
+Amity,senior_pov_rate,0.116
+Annex,senior_pov_rate,0.202
+Beaver Hills,senior_pov_rate,0.142
+Dixwell,senior_pov_rate,0.18
+Downtown,senior_pov_rate,0.134
+Dwight,senior_pov_rate,0.228
+East Rock,senior_pov_rate,0.068
+East Shore,senior_pov_rate,0.0
+Edgewood,senior_pov_rate,0.096
+Fair Haven,senior_pov_rate,0.295
+Fair Haven Heights,senior_pov_rate,0.057
+Hill,senior_pov_rate,0.27
+Newhallville,senior_pov_rate,0.218
+Prospect Hill,senior_pov_rate,0.064
+Quinnipiac Meadows,senior_pov_rate,0.151
+West River,senior_pov_rate,0.173
+West Rock,senior_pov_rate,0.232
+Westville,senior_pov_rate,0.082
+Wooster Square/Mill River,senior_pov_rate,0.251
+Amity,senior_low_inc_rate,0.295
+Annex,senior_low_inc_rate,0.458
+Beaver Hills,senior_low_inc_rate,0.294
+Dixwell,senior_low_inc_rate,0.578
+Downtown,senior_low_inc_rate,0.413
+Dwight,senior_low_inc_rate,0.623
+East Rock,senior_low_inc_rate,0.259
+East Shore,senior_low_inc_rate,0.178
+Edgewood,senior_low_inc_rate,0.528
+Fair Haven,senior_low_inc_rate,0.677
+Fair Haven Heights,senior_low_inc_rate,0.532
+Hill,senior_low_inc_rate,0.54
+Newhallville,senior_low_inc_rate,0.575
+Prospect Hill,senior_low_inc_rate,0.098
+Quinnipiac Meadows,senior_low_inc_rate,0.387
+West River,senior_low_inc_rate,0.342
+West Rock,senior_low_inc_rate,0.571
+Westville,senior_low_inc_rate,0.191
+Wooster Square/Mill River,senior_low_inc_rate,0.466
