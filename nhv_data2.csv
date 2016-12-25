@@ -1,0 +1,286 @@
+Neighborhood,indicator,value,topic
+Westville,Child low-income rate,0.081,Income by age
+East Shore,Child low-income rate,0.116,Income by age
+East Rock,Child low-income rate,0.332,Income by age
+Downtown,Child low-income rate,0.401,Income by age
+Prospect Hill,Child low-income rate,0.439,Income by age
+Edgewood,Child low-income rate,0.476,Income by age
+Fair Haven Heights,Child low-income rate,0.506,Income by age
+Amity,Child low-income rate,0.523,Income by age
+Beaver Hills,Child low-income rate,0.543,Income by age
+Annex,Child low-income rate,0.63,Income by age
+Quinnipiac Meadows,Child low-income rate,0.631,Income by age
+Wooster Square/Mill River,Child low-income rate,0.729,Income by age
+Fair Haven,Child low-income rate,0.734,Income by age
+Newhallville,Child low-income rate,0.75,Income by age
+West River,Child low-income rate,0.755,Income by age
+West Rock,Child low-income rate,0.757,Income by age
+Dixwell,Child low-income rate,0.772,Income by age
+Dwight,Child low-income rate,0.882,Income by age
+Hill,Child low-income rate,0.915,Income by age
+East Shore,Child poverty rate,0.0,Income by age
+Westville,Child poverty rate,0.022,Income by age
+Prospect Hill,Child poverty rate,0.131,Income by age
+Fair Haven Heights,Child poverty rate,0.158,Income by age
+Edgewood,Child poverty rate,0.169,Income by age
+East Rock,Child poverty rate,0.172,Income by age
+Beaver Hills,Child poverty rate,0.287,Income by age
+Amity,Child poverty rate,0.329,Income by age
+Downtown,Child poverty rate,0.365,Income by age
+West River,Child poverty rate,0.399,Income by age
+Annex,Child poverty rate,0.404,Income by age
+Quinnipiac Meadows,Child poverty rate,0.439,Income by age
+Dwight,Child poverty rate,0.446,Income by age
+Fair Haven,Child poverty rate,0.446,Income by age
+Newhallville,Child poverty rate,0.447,Income by age
+Wooster Square/Mill River,Child poverty rate,0.463,Income by age
+Dixwell,Child poverty rate,0.493,Income by age
+West Rock,Child poverty rate,0.531,Income by age
+Hill,Child poverty rate,0.618,Income by age
+Downtown,Homeownership,0.093,Households
+Dwight,Homeownership,0.103,Households
+Dixwell,Homeownership,0.143,Households
+West Rock,Homeownership,0.146,Households
+West River,Homeownership,0.159,Households
+Fair Haven,Homeownership,0.199,Households
+Hill,Homeownership,0.214,Households
+Wooster Square/Mill River,Homeownership,0.215,Households
+Edgewood,Homeownership,0.234,Households
+Prospect Hill,Homeownership,0.272,Households
+East Rock,Homeownership,0.282,Households
+Fair Haven Heights,Homeownership,0.295,Households
+Newhallville,Homeownership,0.309,Households
+Annex,Homeownership,0.428,Households
+Beaver Hills,Homeownership,0.439,Households
+Quinnipiac Meadows,Homeownership,0.44,Households
+Westville,Homeownership,0.473,Households
+Amity,Homeownership,0.496,Households
+East Shore,Homeownership,0.695,Households
+East Shore,Low-income rate,0.127,Income
+Westville,Low-income rate,0.196,Income
+East Rock,Low-income rate,0.283,Income
+Prospect Hill,Low-income rate,0.313,Income
+Downtown,Low-income rate,0.388,Income
+Amity,Low-income rate,0.396,Income
+Quinnipiac Meadows,Low-income rate,0.419,Income
+Fair Haven Heights,Low-income rate,0.445,Income
+Edgewood,Low-income rate,0.458,Income
+Annex,Low-income rate,0.472,Income
+Beaver Hills,Low-income rate,0.472,Income
+Wooster Square/Mill River,Low-income rate,0.499,Income
+Dixwell,Low-income rate,0.54,Income
+West Rock,Low-income rate,0.559,Income
+West River,Low-income rate,0.604,Income
+Newhallville,Low-income rate,0.626,Income
+Fair Haven,Low-income rate,0.635,Income
+Dwight,Low-income rate,0.712,Income
+Hill,Low-income rate,0.729,Income
+East Rock,Percent black residents,0.068,Race & ethnicity
+Downtown,Percent black residents,0.098,Race & ethnicity
+East Shore,Percent black residents,0.182,Race & ethnicity
+Wooster Square/Mill River,Percent black residents,0.188,Race & ethnicity
+Fair Haven,Percent black residents,0.205,Race & ethnicity
+Fair Haven Heights,Percent black residents,0.216,Race & ethnicity
+Annex,Percent black residents,0.236,Race & ethnicity
+Prospect Hill,Percent black residents,0.243,Race & ethnicity
+Westville,Percent black residents,0.267,Race & ethnicity
+West Rock,Percent black residents,0.307,Race & ethnicity
+Hill,Percent black residents,0.364,Race & ethnicity
+Dwight,Percent black residents,0.39,Race & ethnicity
+Quinnipiac Meadows,Percent black residents,0.413,Race & ethnicity
+West River,Percent black residents,0.472,Race & ethnicity
+Amity,Percent black residents,0.548,Race & ethnicity
+Edgewood,Percent black residents,0.577,Race & ethnicity
+Beaver Hills,Percent black residents,0.605,Race & ethnicity
+Dixwell,Percent black residents,0.652,Race & ethnicity
+Newhallville,Percent black residents,0.808,Race & ethnicity
+East Shore,Percent foreign-born residents,0.067,Immigration
+Dixwell,Percent foreign-born residents,0.091,Immigration
+Newhallville,Percent foreign-born residents,0.091,Immigration
+Fair Haven Heights,Percent foreign-born residents,0.103,Immigration
+Edgewood,Percent foreign-born residents,0.121,Immigration
+West Rock,Percent foreign-born residents,0.129,Immigration
+Beaver Hills,Percent foreign-born residents,0.13,Immigration
+Wooster Square/Mill River,Percent foreign-born residents,0.136,Immigration
+Westville,Percent foreign-born residents,0.144,Immigration
+Amity,Percent foreign-born residents,0.148,Immigration
+Hill,Percent foreign-born residents,0.152,Immigration
+West River,Percent foreign-born residents,0.162,Immigration
+Fair Haven,Percent foreign-born residents,0.186,Immigration
+Quinnipiac Meadows,Percent foreign-born residents,0.192,Immigration
+Dwight,Percent foreign-born residents,0.229,Immigration
+Downtown,Percent foreign-born residents,0.231,Immigration
+East Rock,Percent foreign-born residents,0.258,Immigration
+Annex,Percent foreign-born residents,0.264,Immigration
+Prospect Hill,Percent foreign-born residents,0.265,Immigration
+East Shore,Percent Hispanic residents,0.04,Race & ethnicity
+Prospect Hill,Percent Hispanic residents,0.091,Race & ethnicity
+Downtown,Percent Hispanic residents,0.104,Race & ethnicity
+Westville,Percent Hispanic residents,0.104,Race & ethnicity
+East Rock,Percent Hispanic residents,0.107,Race & ethnicity
+Edgewood,Percent Hispanic residents,0.111,Race & ethnicity
+West Rock,Percent Hispanic residents,0.119,Race & ethnicity
+Amity,Percent Hispanic residents,0.154,Race & ethnicity
+Dixwell,Percent Hispanic residents,0.155,Race & ethnicity
+Newhallville,Percent Hispanic residents,0.17,Race & ethnicity
+Beaver Hills,Percent Hispanic residents,0.179,Race & ethnicity
+Quinnipiac Meadows,Percent Hispanic residents,0.214,Race & ethnicity
+Wooster Square/Mill River,Percent Hispanic residents,0.241,Race & ethnicity
+Dwight,Percent Hispanic residents,0.314,Race & ethnicity
+West River,Percent Hispanic residents,0.352,Race & ethnicity
+Fair Haven Heights,Percent Hispanic residents,0.393,Race & ethnicity
+Annex,Percent Hispanic residents,0.416,Race & ethnicity
+Hill,Percent Hispanic residents,0.46,Race & ethnicity
+Fair Haven,Percent Hispanic residents,0.649,Race & ethnicity
+Fair Haven,High-income rate (5xFPL),0.043,Income
+Newhallville,High-income rate (5xFPL),0.05,Income
+Hill,High-income rate (5xFPL),0.066,Income
+West River,High-income rate (5xFPL),0.11,Income
+Dwight,High-income rate (5xFPL),0.117,Income
+Dixwell,High-income rate (5xFPL),0.131,Income
+Annex,High-income rate (5xFPL),0.132,Income
+West Rock,High-income rate (5xFPL),0.168,Income
+Amity,High-income rate (5xFPL),0.174,Income
+Quinnipiac Meadows,High-income rate (5xFPL),0.188,Income
+Edgewood,High-income rate (5xFPL),0.193,Income
+Fair Haven Heights,High-income rate (5xFPL),0.194,Income
+Wooster Square/Mill River,High-income rate (5xFPL),0.228,Income
+Beaver Hills,High-income rate (5xFPL),0.233,Income
+Prospect Hill,High-income rate (5xFPL),0.28,Income
+Downtown,High-income rate (5xFPL),0.281,Income
+East Rock,High-income rate (5xFPL),0.38,Income
+East Shore,High-income rate (5xFPL),0.41,Income
+Westville,High-income rate (5xFPL),0.44,Income
+Newhallville,Percent other race residents,0.02,Race & ethnicity
+Fair Haven,Percent other race residents,0.026,Race & ethnicity
+Annex,Percent other race residents,0.038,Race & ethnicity
+West River,Percent other race residents,0.041,Race & ethnicity
+Fair Haven Heights,Percent other race residents,0.044,Race & ethnicity
+Beaver Hills,Percent other race residents,0.045,Race & ethnicity
+Dixwell,Percent other race residents,0.047,Race & ethnicity
+East Shore,Percent other race residents,0.049,Race & ethnicity
+Hill,Percent other race residents,0.058,Race & ethnicity
+West Rock,Percent other race residents,0.064,Race & ethnicity
+Amity,Percent other race residents,0.065,Race & ethnicity
+Edgewood,Percent other race residents,0.069,Race & ethnicity
+Wooster Square/Mill River,Percent other race residents,0.069,Race & ethnicity
+Westville,Percent other race residents,0.07,Race & ethnicity
+Dwight,Percent other race residents,0.082,Race & ethnicity
+Quinnipiac Meadows,Percent other race residents,0.12,Race & ethnicity
+East Rock,Percent other race residents,0.142,Race & ethnicity
+Downtown,Percent other race residents,0.226,Race & ethnicity
+Prospect Hill,Percent other race residents,0.306,Race & ethnicity
+Downtown,Percent of residents ages 0-17,0.036,Age
+West Rock,Percent of residents ages 0-17,0.121,Age
+East Rock,Percent of residents ages 0-17,0.133,Age
+Wooster Square/Mill River,Percent of residents ages 0-17,0.167,Age
+Fair Haven Heights,Percent of residents ages 0-17,0.188,Age
+Dwight,Percent of residents ages 0-17,0.203,Age
+East Shore,Percent of residents ages 0-17,0.204,Age
+Dixwell,Percent of residents ages 0-17,0.208,Age
+Prospect Hill,Percent of residents ages 0-17,0.21,Age
+Westville,Percent of residents ages 0-17,0.214,Age
+Annex,Percent of residents ages 0-17,0.231,Age
+West River,Percent of residents ages 0-17,0.238,Age
+Quinnipiac Meadows,Percent of residents ages 0-17,0.239,Age
+Edgewood,Percent of residents ages 0-17,0.253,Age
+Amity,Percent of residents ages 0-17,0.267,Age
+Newhallville,Percent of residents ages 0-17,0.275,Age
+Fair Haven,Percent of residents ages 0-17,0.292,Age
+Hill,Percent of residents ages 0-17,0.298,Age
+Beaver Hills,Percent of residents ages 0-17,0.312,Age
+Downtown,Percent of residents ages 65+,0.059,Age
+Fair Haven,Percent of residents ages 65+,0.073,Age
+West Rock,Percent of residents ages 65+,0.079,Age
+Dwight,Percent of residents ages 65+,0.081,Age
+East Rock,Percent of residents ages 65+,0.085,Age
+Amity,Percent of residents ages 65+,0.088,Age
+Hill,Percent of residents ages 65+,0.089,Age
+Wooster Square/Mill River,Percent of residents ages 65+,0.09,Age
+Annex,Percent of residents ages 65+,0.094,Age
+Quinnipiac Meadows,Percent of residents ages 65+,0.096,Age
+Beaver Hills,Percent of residents ages 65+,0.104,Age
+Edgewood,Percent of residents ages 65+,0.104,Age
+Prospect Hill,Percent of residents ages 65+,0.108,Age
+Dixwell,Percent of residents ages 65+,0.11,Age
+West River,Percent of residents ages 65+,0.122,Age
+Westville,Percent of residents ages 65+,0.133,Age
+Newhallville,Percent of residents ages 65+,0.15,Age
+East Shore,Percent of residents ages 65+,0.175,Age
+Fair Haven Heights,Percent of residents ages 65+,0.208,Age
+Newhallville,Percent white non-Hispanic residents,0.003,Race & ethnicity
+Hill,Percent white non-Hispanic residents,0.118,Race & ethnicity
+Fair Haven,Percent white non-Hispanic residents,0.12,Race & ethnicity
+West River,Percent white non-Hispanic residents,0.135,Race & ethnicity
+Dixwell,Percent white non-Hispanic residents,0.146,Race & ethnicity
+Beaver Hills,Percent white non-Hispanic residents,0.171,Race & ethnicity
+Dwight,Percent white non-Hispanic residents,0.214,Race & ethnicity
+Amity,Percent white non-Hispanic residents,0.233,Race & ethnicity
+Edgewood,Percent white non-Hispanic residents,0.243,Race & ethnicity
+Quinnipiac Meadows,Percent white non-Hispanic residents,0.252,Race & ethnicity
+Annex,Percent white non-Hispanic residents,0.31,Race & ethnicity
+Fair Haven Heights,Percent white non-Hispanic residents,0.346,Race & ethnicity
+Prospect Hill,Percent white non-Hispanic residents,0.36,Race & ethnicity
+Wooster Square/Mill River,Percent white non-Hispanic residents,0.503,Race & ethnicity
+West Rock,Percent white non-Hispanic residents,0.509,Race & ethnicity
+Westville,Percent white non-Hispanic residents,0.559,Race & ethnicity
+Downtown,Percent white non-Hispanic residents,0.572,Race & ethnicity
+East Rock,Percent white non-Hispanic residents,0.683,Race & ethnicity
+East Shore,Percent white non-Hispanic residents,0.729,Race & ethnicity
+East Shore,Poverty rate,0.025,Income
+Westville,Poverty rate,0.101,Income
+East Rock,Poverty rate,0.131,Income
+Prospect Hill,Poverty rate,0.149,Income
+Fair Haven Heights,Poverty rate,0.168,Income
+Amity,Poverty rate,0.214,Income
+Edgewood,Poverty rate,0.23,Income
+Downtown,Poverty rate,0.231,Income
+Annex,Poverty rate,0.249,Income
+Beaver Hills,Poverty rate,0.254,Income
+Quinnipiac Meadows,Poverty rate,0.254,Income
+Wooster Square/Mill River,Poverty rate,0.295,Income
+West River,Poverty rate,0.32,Income
+Dixwell,Poverty rate,0.328,Income
+Newhallville,Poverty rate,0.334,Income
+Fair Haven,Poverty rate,0.341,Income
+Dwight,Poverty rate,0.377,Income
+West Rock,Poverty rate,0.388,Income
+Hill,Poverty rate,0.447,Income
+Prospect Hill,Senior low-income rate,0.098,Income by age
+East Shore,Senior low-income rate,0.178,Income by age
+Westville,Senior low-income rate,0.191,Income by age
+East Rock,Senior low-income rate,0.259,Income by age
+Beaver Hills,Senior low-income rate,0.294,Income by age
+Amity,Senior low-income rate,0.295,Income by age
+West River,Senior low-income rate,0.342,Income by age
+Quinnipiac Meadows,Senior low-income rate,0.387,Income by age
+Downtown,Senior low-income rate,0.413,Income by age
+Annex,Senior low-income rate,0.458,Income by age
+Wooster Square/Mill River,Senior low-income rate,0.466,Income by age
+Edgewood,Senior low-income rate,0.528,Income by age
+Fair Haven Heights,Senior low-income rate,0.532,Income by age
+Hill,Senior low-income rate,0.54,Income by age
+West Rock,Senior low-income rate,0.571,Income by age
+Newhallville,Senior low-income rate,0.575,Income by age
+Dixwell,Senior low-income rate,0.578,Income by age
+Dwight,Senior low-income rate,0.623,Income by age
+Fair Haven,Senior low-income rate,0.677,Income by age
+East Shore,Senior poverty rate,0.0,Income by age
+Fair Haven Heights,Senior poverty rate,0.057,Income by age
+Prospect Hill,Senior poverty rate,0.064,Income by age
+East Rock,Senior poverty rate,0.068,Income by age
+Westville,Senior poverty rate,0.082,Income by age
+Edgewood,Senior poverty rate,0.096,Income by age
+Amity,Senior poverty rate,0.116,Income by age
+Downtown,Senior poverty rate,0.134,Income by age
+Beaver Hills,Senior poverty rate,0.142,Income by age
+Quinnipiac Meadows,Senior poverty rate,0.151,Income by age
+West River,Senior poverty rate,0.173,Income by age
+Dixwell,Senior poverty rate,0.18,Income by age
+Annex,Senior poverty rate,0.202,Income by age
+Newhallville,Senior poverty rate,0.218,Income by age
+Dwight,Senior poverty rate,0.228,Income by age
+West Rock,Senior poverty rate,0.232,Income by age
+Wooster Square/Mill River,Senior poverty rate,0.251,Income by age
+Hill,Senior poverty rate,0.27,Income by age
+Fair Haven,Senior poverty rate,0.295,Income by age
