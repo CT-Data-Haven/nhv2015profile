@@ -1,0 +1,88 @@
+@media only screen and (max-width : 767px) {
+    .match {
+        height: auto !important;
+    }
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#chart {
+    /*height: 587px;*/
+}
+
+.dot {
+  fill: #230636;
+  opacity: 0.3;
+  stroke-width: 0;
+  stroke: black;
+}
+
+
+.axis line,
+.axis path {
+  stroke: black;
+  stroke-width: 1px;
+  fill: none;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-size: 1.05em;
+}
+
+.label {
+  font-size: small;
+  font-weight: 600;
+}
+
+.hidden {
+    display: none;
+}
+
+.not-hidden {
+    display: block;
+}
+
+.hilite {
+    opacity: 0.8;
+    stroke-width: 1px;
+    fill: #d718c4;
+    z-index: 1000;
+}
+
+.not-hilite {
+  fill: #230636;
+  opacity: 0.3;
+  stroke-width: 0;
+}
+
+.dot-tooltip text {
+    fill: #333;
+    font-size: 0.9em;
+    pointer-events: none;
+}
+
+.polygon {
+    stroke: #666;
+    stroke-width: 1px;
+    opacity: 0.8;
+}
+
+.map-hover {
+    opacity: 1.0;
+    stroke: black;
+    stroke-width: 2px;
+    z-index: 1000;
+}
+
+.swatch {
+    stroke: #ddd;
+    stroke-width: 1px;
+}
+
+.legendQuant text.label {
+    font-size: 0.7em;
+    font-weight: normal;
+}
