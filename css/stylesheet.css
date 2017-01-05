@@ -16,7 +16,6 @@ body {
   fill: #230636;
   opacity: 0.3;
   stroke-width: 0;
-  stroke: black;
 }
 
 
@@ -47,8 +46,8 @@ body {
 
 .hilite {
     opacity: 0.8;
-    stroke-width: 1px;
     fill: #d718c4;
+    stroke: #d718c4;
     z-index: 1000;
 }
 
@@ -58,10 +57,34 @@ body {
   stroke-width: 0;
 }
 
-.dot-tooltip text {
+.label-container {
+    padding: 10px 20px 0 12px;
+}
+
+.dot-tooltip {
     fill: #333;
-    font-size: 0.9em;
+    font-size: 0.8em;
     pointer-events: none;
+    display: inline;
+    float: right;
+}
+
+.indic-label {
+    font-weight: bold;
+    color: black;
+    display: inline;
+    float: left;
+}
+
+.zoom-button {
+    margin-left: 20px;
+    font-size: 0.8em;
+    position: relative;
+    left: 20px;
+}
+
+.tool-label {
+    font-weight: 600;
 }
 
 .polygon {
