@@ -159,22 +159,30 @@ function makeMultiple(indicator) {
     };
 
     var labelContainer = div.append('div')
-        .attr('class', 'label-container');
+        .attr('class', 'label-container col-sm-12');
 
     // label with name of indicator
-    var label = labelContainer.append('div')
-        .attr('class', 'indic-label')
+    var labelRow1 = labelContainer.append('div')
+        .attr('class', 'row')
+        .style('margin-bottom', '2px');
+    var labelRow2 = labelContainer.append('div')
+        .attr('class', 'row')
+        .style('min-height', '1.2em');
+    var label = labelRow1.append('div')
+        .attr('class', 'indic-label col-sm-6')
         .text(function(d) { return d.key; });
 
     // buttons to expand/collapse
-    var button = labelContainer.append('button')
+    var button = labelRow1.append('div')
+        .attr('class', 'col-sm-6')
+        .append('button')
         .attr('type', 'button')
         .attr('class', 'btn btn-default btn-xs zoom-button')
         .text('Expand');
 
     // tooltip, floated to right
-    var tooltip = labelContainer.append('div')
-        .attr('class', 'dot-tooltip')
+    var tooltip = labelRow2.append('div')
+        .attr('class', 'dot-tooltip col-sm-12')
         .text(' ');
     tooltip.append('span').attr('class', 'tool-label');
     tooltip.append('span').attr('class', 'tool-value');

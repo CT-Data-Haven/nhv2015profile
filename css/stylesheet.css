@@ -1,9 +1,3 @@
-@media only screen and (max-width : 767px) {
-    .match {
-        height: auto !important;
-    }
-}
-
 body {
   font-family: sans-serif;
 }
@@ -62,11 +56,11 @@ body {
 }
 
 .dot-tooltip {
-    fill: #333;
+    color: #333;
     font-size: 0.8em;
     pointer-events: none;
-    display: inline;
     float: right;
+    text-align: right;
 }
 
 .indic-label {
@@ -77,10 +71,9 @@ body {
 }
 
 .zoom-button {
-    margin-left: 20px;
     font-size: 0.8em;
-    position: relative;
-    left: 20px;
+    width: 60px;
+    float: right;
 }
 
 .tool-label {
