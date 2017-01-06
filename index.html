@@ -5,39 +5,53 @@
     <title>New Haven neighborhood profiles</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="css/keen-dashboards.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.28.3/css/theme.bootstrap.min.css" />
     <link rel="stylesheet" href="css/stylesheet.css" />
     <link rel="stylesheet" href="css/tooltip.css" />
 
     <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.28.3/js/jquery.tablesorter.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.28.3/js/jquery.tablesorter.widgets.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.28.3/js/widgets/widget-scroller.min.js"></script>
     <script src="https://d3js.org/d3.v4.js"></script>
     <script src="https://d3js.org/topojson.v1.min.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.19.0/d3-legend.min.js"></script>
     <script src="https://d3js.org/d3-selection-multi.v1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.4/numeral.min.js"></script>
     <script src="js/script-zoom.js"></script>
 </head>
 <body class="application">
 
-    <div class="container-fluid">
+    <div class="container">
 
+        <div class="row col-md-12">
+            <h3>Neighborhood Profiles: New Haven, 2015</h3>
+            <p>
+                Choose data to display by neighborhood. For each topic area, there are several indicators to view.
+            </p>
+            <p>
+                For a more detailed view of any of the dot plots, click "Expand" to zoom in to a bar chart. All data is available by topic in the table below, or you can <a href="https://raw.githubusercontent.com/CT-Data-Haven/WebsiteIndicators/master/NeighborhoodProfiles/2015_5Y_NH_neighborhood_Git.csv">download the entire dataset</a>.
+            </p>
+        </div>
         <div class="row col-md-12">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4>Select data to view by neighborhood</h4>
+                    <h5>Select data to view by neighborhood</h5>
                 </div>
                 <div class="panel-body">
                     <form id="menu" class="form-horizontal">
-                        <div class="form-group">
-                            <label for="topicMenu" class="control-label col-md-3">Select topic area</label>
-                            <div class="controls col-md-9">
+                        <div class="form-group form-group-sm">
+                            <label for="topicMenu" class="control-label col-sm-4 col-md-3">Select topic area</label>
+                            <div class="controls col-sm-8 col-md-9">
                                 <select name="topicMenu" id="topicMenu" class="form-control"></select>
                             </div>
                         </div>
-                        <div class="form-group">
-                            <label for="indicMenu" class="control-label col-md-3">Select indicator to map</label>
-                            <div class="controls col-md-9">
+                        <div class="form-group form-group-sm">
+                            <label for="indicMenu" class="control-label col-sm-4 col-md-3">Select indicator to map</label>
+                            <div class="controls col-sm-8 col-md-9">
                                 <select name="indicMenu" id="indicMenu" class="form-control"></select>
                             </div>
                         </div>
@@ -50,7 +64,7 @@
 
             <div class="col-md-6">
                 <div class="chart-wrapper">
-                    <div class="chart-title" id="map-title"></div>
+                    <div class="chart-title indic-header" id="map-title"></div>
                     <div class="chart-stage" id="map"></div>
                     <div class="chart-notes"></div>
                 </div>
@@ -58,7 +72,7 @@
 
             <div class="col-md-6">
                 <div class="chart-wrapper">
-                    <div class="chart-title" id="chart-title"></div>
+                    <div class="chart-title topic-header" id="chart-title"></div>
                     <div class="chart-stage" id="chart"></div>
                     <div class="chart-notes"></div>
                 </div>
@@ -66,23 +80,32 @@
 
         </div>
 
-        <div class="row">
+        <div class="row col-md-12">
 
-            <div class="col-md-12">
+            <div>
                 <div class="chart-wrapper">
-                    <!--  table will go here  -->
+                    <div class="chart-title topic-header" id="table-title"></div>
+                    <div class="chart-stage">
+                        <table id="datatable" class="table table-condensed">
+                            <thead></thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                    <div class="chart-notes"></div>
                 </div>
             </div>
 
         </div>
+
+        <div class="row col-md-12">
+            <p class="source">
+                <strong>Source:</strong> DataHaven analysis (2016) of US Census Bureau 2015 American Community Survey 5-year estimates. Neighborhood boundaries are shown as defined by New Haven City Plan Department.
+            </p>
+            <p class="source">
+                <strong>Note:</strong> Neighborhood-level data from the American Community Survey are subject to high margins of error. Compare and use with caution.
+            </p>
+        </div>
     </div>
 
-    <!-- <div id="menu">
-        <select id="topicMenu"></select>
-        <select id="indicMenu"></select>
-
-    </div>
-    <div id="map"></div>
-    <div id="chart"></div> -->
 </body>
 </html>

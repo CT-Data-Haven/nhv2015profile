@@ -102,3 +102,34 @@ body {
     font-size: 0.7em;
     font-weight: normal;
 }
+
+.panel-heading {
+    padding: 4px 12px 4px 12px;
+}
+
+#datatable tbody {
+    /*display: block;*/
+    overflow: auto;
+}
+
+#datatable th, td {
+    font-size: 0.85em;
+}
+
+#datatable th {
+    font-weight: 500;
+}
+
+#datatable tbody tr:hover td {
+    background-color: rgb(203, 201, 226);
+}
+
+.tablesorter-bootstrap .tablesorter-header {
+    font-size: 0.85em !important;
+    font-weight: 500 !important;
+}
+
+.source {
+    font-weight: 400;
+    font-size: 0.9em;
+}

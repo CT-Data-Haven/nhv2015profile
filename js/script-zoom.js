@@ -1,9 +1,9 @@
 //////////// global variables
 
 var chartAttr = {
-    fullwidth: 640,
+    fullwidth: 543,
     fullheight: 60,
-    top: 0, right: 40, bottom: 20, left: 180,
+    top: 0, right: 40, bottom: 20, left: 140,
     zoomFull: 360,
     r: 16
 };
@@ -12,18 +12,21 @@ chartAttr.height = chartAttr.fullheight - chartAttr.top - chartAttr.bottom;
 chartAttr.zoomHeight = chartAttr.zoomFull - chartAttr.top - chartAttr.bottom;
 
 var mapAttr = {
-    fullwidth: 524,
-    fullheight: 524,
+    fullwidth: 543,
+    fullheight: 543,
     top: 12, right: 12, bottom: 20, left: 12
 };
 mapAttr.width = mapAttr.fullwidth - mapAttr.left - mapAttr.right;
 mapAttr.height = mapAttr.fullheight - mapAttr.top - mapAttr.bottom;
 
+// $(function() { $('#datatable').tablesorter({ headerTemplate: '{content} {icon}' }); });
+
 /////////////////////////////////
+var globaldata;
 
 d3.queue()
-    .defer(d3.json, 'json/nhv_shape2.json')
-    .defer(d3.csv, 'data/nhv_data2.csv')
+    .defer(d3.json, 'json/nhv_shape.json')
+    .defer(d3.csv, 'data/nhv_long2015.csv')
     .await(init);
 
 ///////////////////// INITIALIZE: CALL DRAWDOTS, DRAWMAP, TRIGGER TOPIC MENU CHANGE
@@ -34,20 +37,25 @@ function init(error, json, csv) {
     csv.forEach(function(d) {
         d.value = +d.value;
     });
+
+    // filter for topic === map; use this for nested & byTopic.
+    // no filter, nest by topic; use for table
+    var csvMap = csv.filter(function(d) { return d.type === 'map'; });
+
     var nested = d3.nest()
         .key(function(d) { return d.indicator; })
-        .sortValues(function(a, b) { return a.order - b.order; })
+        // .sortValues(function(a, b) { return a.order - b.order; })
         .sortValues(function(a, b) { return b.value - a.value; })
-        .entries(csv);
+        .entries(csvMap);
     nested.forEach(function(d) {
         d.topic = d.values[0].topic;
-        d.order = +d.values[0].order;
+        // d.order = +d.values[0].order;
     });
 
     var byTopic = d3.nest()
         .key(function(d) { return d.topic; })
-        .sortValues(function(a, b) { return a.order - b.order; })
-        .entries(csv);
+        // .sortValues(function(a, b) { return a.order - b.order; })
+        .entries(csvMap);
     byTopic.forEach(function(d) {
         d.displayTopic = d.values[0].displayTopic;
     });
@@ -59,11 +67,32 @@ function init(error, json, csv) {
         .enter().append('option')
             .attr('value', function(d) { return d.key; })
             .text(function(d) { return d.displayTopic; });
-    $('#topicMenu').on('change', {nested: nested}, changeTopic);
-    $('#indicMenu').on('change', {csv: csv}, changeIndic);
+    // try sending raw csv to make table instead?
+    $('#topicMenu').on('change', {nested: nested, csv: csv}, changeTopic);
+    // $('#topicMenu').on('change', {nested: nested, nestTable: nestTable}, changeTopic);
+    $('#indicMenu').on('change', {csv: csvMap}, changeIndic);
 
     drawDots(nested);
     drawMap(json);
+
+    $.tablesorter.themes.bootstrap = {
+        icons        : '', // add "icon-white" to make them white; this icon class is added to the <i> in the header
+        iconSortNone : 'bootstrap-icon-unsorted', // class name added to icon when column is not sorted
+        iconSortAsc  : 'glyphicon glyphicon-chevron-up', // class name added to icon when column has ascending sort
+        iconSortDesc : 'glyphicon glyphicon-chevron-down',
+        table: 'table-hover'
+    };
+    $('#datatable').tablesorter({
+        theme: 'bootstrap',
+        headerTemplate: '{content} {icon}',
+        // widgets: ['uitheme', 'stickyHeaders', 'scroller'],
+        widgets: ['uitheme', 'stickyHeaders'],
+        widgetOptions: {
+            stickyHeaders: 'sticky',
+            stickyHeaders_addResizeEvent: false
+            // scroller_height: 550
+        }
+    });
 
     // DO THIS LAST
     $('#topicMenu').change();
@@ -76,6 +105,7 @@ function changeTopic(event) {
     $('#indicMenu').empty();
 
     var nested = event.data.nested;
+    var csv = event.data.csv;
 
     var filtered = nested.filter(function(d) {
         return d.topic === topic;
@@ -87,21 +117,31 @@ function changeTopic(event) {
         .enter().append('option')
             .attr('value', function(d) { return d.key; })
             .attr('data-topic', function(d) { return d.topic; })
-            .sort(function(a, b) { return a.order - b.order; })
+            // .sort(function(a, b) { return a.order - b.order; })
             .text(function(d) { return d.key; });
 
     d3.selectAll('.chart-div')
         .style('display', 'none')
         .filter(function(d) { return d.topic === topic; })
             .style('display', 'block');
+
+    var topicTable = [];
+
+    csv.forEach(function(row) {
+        if (row.topic === topic) { topicTable.push(row); }
+    });
+
+    makeTable(topicTable);
+
     // change indicator after menu options are set
+    $('.topic-header').text(displayTopic);
     $('#indicMenu').children('option').eq(0).attr('selected', true);
     $('#indicMenu').change();
 }
 
 function changeIndic(event) {
     var indic = this.value;
-    $('#map-title').text(indic);
+    $('.indic-header').text(indic);
     // use csv data passed in to fill map polygons via d3.selectAll('.polygon')
     var csv = event.data.csv;
     colorMap(csv, indic);
@@ -114,7 +154,7 @@ function drawDots(nested) {
         .data(nested)
         .enter().append('div')
             .attr('class', 'chart-div')
-            .sort(function(a, b) { return a.order - b.order; })
+            // .sort(function(a, b) { return a.order - b.order; })
             .each(makeMultiple);
 }
 
@@ -423,4 +463,86 @@ function mouseOutPoly(poly) {
         .transition()
         .duration(200)
             .style('stroke-width', 0);
+}
+
+function makeTable(table) {
+    var table_el = d3.select('#datatable');
+    // clear old table
+    table_el.select('thead').selectAll('tr').remove();
+    table_el.select('tbody').selectAll('tr').remove();
+    // var ths = [];
+    // data.forEach(function(indic) {
+    //     ths.push(indic.key);
+    // });
+    // // $('#datatable thead tr').html(ths);
+    // table.select('thead')
+    //     .append('tr')
+    //     .selectAll('th')
+    //     .data(ths)
+    //     .enter().append('th')
+    //         .text(function(d) { return d; });
+    //
+    // nest by neighborhoods--makes each array item a row
+    // convert to wide data
+    var wide = d3.nest()
+        .key(function(d) { return d.Neighborhood; })
+        .rollup(function(d) {
+            return d.reduce(function(prev, curr) {
+                prev.Neighborhood = curr.Neighborhood;
+                prev[curr.indicator] = curr.value;
+                return prev;
+            }, {});
+        })
+        .entries(table);
+    // make th elements--get array of unique values for indicator from table
+    var indicators = d3.set(table.map(function(d) {
+        return d.indicator;
+    })).values();
+    // add Neighborhood to end of indicators
+    indicators.unshift('Neighborhood');
+
+    var thead = table_el.select('thead')
+        .append('tr')
+        .selectAll('th')
+        .data(indicators)
+        .enter().append('th')
+            .text(function(d) { return d; });
+    // make rows
+    var rows = table_el.select('tbody')
+        .selectAll('tr')
+        .data(wide)
+        .enter().append('tr');
+    // append td of neighborhood
+
+    // append tds of indicators
+    rows.selectAll('td')
+        .data(function(row) {
+            return indicators.map(function(indicator) {
+                return { indicator: indicator, value: row.value[indicator] };
+            });
+        })
+        .enter().append('td')
+            .text(function(d, i) {
+                // need to parse text: if indexOf('.') === -1, make comma separated; otherwise make percentage
+                // just return value for i = 0 (neighborhood)
+                if (i === 0) { return d.value; }
+                var value = d.value.toString();
+                var valText;
+                if (value.indexOf('.') === -1) {
+                    valText = numeral(value).format('0,0');
+                } else {
+                    valText = numeral(value).format('0%');
+                }
+                return valText;
+                // return d.value;
+            })
+            .attr('class', function(d, i) {
+                // make all but first td right aligned
+                if (i) { return 'text-right'; }
+            })
+        .exit();
+
+    // $('#datatable').trigger('updateAll', false, null);
+    // $('#datatable').trigger('update');
+    $('#datatable').trigger('updateAll');
 }
