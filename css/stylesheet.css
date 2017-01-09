@@ -10,6 +10,10 @@ body {
     /*height: 587px;*/
 }
 
+.chart-wrapper .chart-title {
+  font-weight: 400;
+}
+
 .dot {
   fill: #230636;
   opacity: 0.3;
