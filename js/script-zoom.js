@@ -86,10 +86,14 @@ function init(error, json, csv) {
         theme: 'bootstrap',
         headerTemplate: '{content} {icon}',
         // widgets: ['uitheme', 'stickyHeaders', 'scroller'],
-        widgets: ['uitheme', 'stickyHeaders'],
+        // widgets: ['uitheme', 'stickyHeaders'],
+        widgets: ['uitheme', 'reflow', 'zebra'],
         widgetOptions: {
-            stickyHeaders: 'sticky',
-            stickyHeaders_addResizeEvent: false
+            reflow_className: 'ui-table-reflow',
+            reflow_headerAttrib: 'data-name',
+            reflow_dataAttrib: 'data-title'
+            // stickyHeaders: 'sticky',
+            // stickyHeaders_addResizeEvent: false
             // scroller_height: 550
         }
     });
