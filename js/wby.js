@@ -392,6 +392,8 @@ function colorMap(csv, indicator) {
     // clear previous legend
     d3.select('.legendQuant').remove();
 
+    // need to also have diverging scale for childcare indicators--check whether max value > 1
+
     var nested = d3.nest()
         .key(function(d) { return d.indicator; })
         .map(csv);
@@ -401,9 +403,26 @@ function colorMap(csv, indicator) {
     var tip = d3.tip()
         .attr('class', 'd3-tip');
 
+    // var color;
+    //     // .domain(d3.extent(indicValues, function(d) { return +d.value; }));
+    // var max = d3.max(indicValues, function(d) { return +d.value; });
+    // if (max >= 1.0) {
+    //     color = d3.scaleLinear()
+    //         .domain([d3.min(indicValues, function(d) { return +d.value; }),
+    //                     1.0,
+    //                     d3.max(indicValues, function(d) { return +d.value; })
+    //     ])
+    //         .range(['#dc143c','#eeeeee','#4b0082']);
+    // } else {
+    //     color = d3.scaleQuantize()
+    //         .domain(d3.extent(indicValues, function(d) { return +d.value; }))
+    //         .range(d3.schemePurples[5]);
+    // }
     var color = d3.scaleQuantize()
         .domain(d3.extent(indicValues, function(d) { return +d.value; }))
         .range(d3.schemePurples[5]);
+
+
 
     // object to match names of neighborhoods with values from indicValues
     var hoodMap = {};
