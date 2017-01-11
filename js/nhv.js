@@ -404,7 +404,7 @@ function colorMap(csv, indicator) {
     // var color = d3.scaleQuantize()
     //     .domain(d3.extent(indicValues, function(d) { return +d.value; }))
     //     .range(d3.schemePurples[5]);
-    
+
     var vals = indicValues.map(function(d) { return +d.value; });
     var breaks = ss.ckmeans(vals, 5).map(function(val) { return val[0]; }).slice(1);
 

@@ -25,6 +25,9 @@ Mountain West,West Hartford,age,Age,Total population,4452.0,table
 New Park,West Hartford,age,Age,Total population,6142.0,table
 Rockledge,West Hartford,age,Age,Total population,6541.0,table
 West Hartford Center,West Hartford,age,Age,Total population,4922.0,table
+Hartford,,age,Age,Total population,124795.0,table
+West Hartford,,age,Age,Total population,63288.0,table
+Connecticut,,age,Age,Total population,3593222.0,table
 Asylum Hill,Hartford,age,Age,Population ages 0-17,1795.0,table
 Barry Square,Hartford,age,Age,Population ages 0-17,4042.0,table
 Behind the Rocks,Hartford,age,Age,Population ages 0-17,2385.0,table
@@ -51,6 +54,9 @@ Mountain West,West Hartford,age,Age,Population ages 0-17,1255.0,table
 New Park,West Hartford,age,Age,Population ages 0-17,1132.0,table
 Rockledge,West Hartford,age,Age,Population ages 0-17,1673.0,table
 West Hartford Center,West Hartford,age,Age,Population ages 0-17,1278.0,table
+Hartford,,age,Age,Population ages 0-17,31059.0,table
+West Hartford,,age,Age,Population ages 0-17,14235.0,table
+Connecticut,,age,Age,Population ages 0-17,784736.0,table
 Asylum Hill,Hartford,age,Age,Percent ages 0-17,0.182,map
 Barry Square,Hartford,age,Age,Percent ages 0-17,0.261,map
 Behind the Rocks,Hartford,age,Age,Percent ages 0-17,0.281,map
@@ -77,6 +83,9 @@ Mountain West,West Hartford,age,Age,Percent ages 0-17,0.282,map
 New Park,West Hartford,age,Age,Percent ages 0-17,0.184,map
 Rockledge,West Hartford,age,Age,Percent ages 0-17,0.256,map
 West Hartford Center,West Hartford,age,Age,Percent ages 0-17,0.26,map
+Hartford,,age,Age,Percent ages 0-17,0.249,table
+West Hartford,,age,Age,Percent ages 0-17,0.225,table
+Connecticut,,age,Age,Percent ages 0-17,0.218,table
 Asylum Hill,Hartford,age,Age,Population ages 65+,960.0,table
 Barry Square,Hartford,age,Age,Population ages 65+,1097.0,table
 Behind the Rocks,Hartford,age,Age,Population ages 65+,697.0,table
@@ -103,6 +112,9 @@ Mountain West,West Hartford,age,Age,Population ages 65+,758.0,table
 New Park,West Hartford,age,Age,Population ages 65+,640.0,table
 Rockledge,West Hartford,age,Age,Population ages 65+,956.0,table
 West Hartford Center,West Hartford,age,Age,Population ages 65+,646.0,table
+Hartford,,age,Age,Population ages 65+,12022.0,table
+West Hartford,,age,Age,Population ages 65+,11177.0,table
+Connecticut,,age,Age,Population ages 65+,542278.0,table
 Asylum Hill,Hartford,age,Age,Percent ages 65+,0.097,map
 Barry Square,Hartford,age,Age,Percent ages 65+,0.071,map
 Behind the Rocks,Hartford,age,Age,Percent ages 65+,0.082,map
@@ -129,6 +141,9 @@ Mountain West,West Hartford,age,Age,Percent ages 65+,0.17,map
 New Park,West Hartford,age,Age,Percent ages 65+,0.104,map
 Rockledge,West Hartford,age,Age,Percent ages 65+,0.146,map
 West Hartford Center,West Hartford,age,Age,Percent ages 65+,0.131,map
+Hartford,,age,Age,Percent ages 65+,0.096,table
+West Hartford,,age,Age,Percent ages 65+,0.177,table
+Connecticut,,age,Age,Percent ages 65+,0.151,table
 Asylum Hill,Hartford,race,Race and ethnicity,Total population,9859.0,table
 Barry Square,Hartford,race,Race and ethnicity,Total population,15485.0,table
 Behind the Rocks,Hartford,race,Race and ethnicity,Total population,8484.0,table
@@ -155,6 +170,9 @@ Mountain West,West Hartford,race,Race and ethnicity,Total population,4452.0,tabl
 New Park,West Hartford,race,Race and ethnicity,Total population,6142.0,table
 Rockledge,West Hartford,race,Race and ethnicity,Total population,6541.0,table
 West Hartford Center,West Hartford,race,Race and ethnicity,Total population,4922.0,table
+Hartford,,race,Race and ethnicity,Total population,124795.0,table
+West Hartford,,race,Race and ethnicity,Total population,63288.0,table
+Connecticut,,race,Race and ethnicity,Total population,3593222.0,table
 Asylum Hill,Hartford,race,Race and ethnicity,Hispanic population,2909.0,table
 Barry Square,Hartford,race,Race and ethnicity,Hispanic population,8893.0,table
 Behind the Rocks,Hartford,race,Race and ethnicity,Hispanic population,5773.0,table
@@ -181,6 +199,9 @@ Mountain West,West Hartford,race,Race and ethnicity,Hispanic population,27.0,tab
 New Park,West Hartford,race,Race and ethnicity,Hispanic population,1582.0,table
 Rockledge,West Hartford,race,Race and ethnicity,Hispanic population,573.0,table
 West Hartford Center,West Hartford,race,Race and ethnicity,Hispanic population,203.0,table
+Hartford,,race,Race and ethnicity,Hispanic population,55208.0,table
+West Hartford,,race,Race and ethnicity,Hispanic population,6155.0,table
+Connecticut,,race,Race and ethnicity,Hispanic population,526508.0,table
 Asylum Hill,Hartford,race,Race and ethnicity,Percent Hispanic residents,0.295,map
 Barry Square,Hartford,race,Race and ethnicity,Percent Hispanic residents,0.574,map
 Behind the Rocks,Hartford,race,Race and ethnicity,Percent Hispanic residents,0.68,map
@@ -207,6 +228,9 @@ Mountain West,West Hartford,race,Race and ethnicity,Percent Hispanic residents,0
 New Park,West Hartford,race,Race and ethnicity,Percent Hispanic residents,0.258,map
 Rockledge,West Hartford,race,Race and ethnicity,Percent Hispanic residents,0.088,map
 West Hartford Center,West Hartford,race,Race and ethnicity,Percent Hispanic residents,0.041,map
+Hartford,,race,Race and ethnicity,Percent Hispanic residents,0.442,table
+West Hartford,,race,Race and ethnicity,Percent Hispanic residents,0.097,table
+Connecticut,,race,Race and ethnicity,Percent Hispanic residents,0.147,table
 Asylum Hill,Hartford,race,Race and ethnicity,White non-Hispanic population,1233.0,table
 Barry Square,Hartford,race,Race and ethnicity,White non-Hispanic population,2769.0,table
 Behind the Rocks,Hartford,race,Race and ethnicity,White non-Hispanic population,684.0,table
@@ -233,6 +257,9 @@ Mountain West,West Hartford,race,Race and ethnicity,White non-Hispanic populatio
 New Park,West Hartford,race,Race and ethnicity,White non-Hispanic population,2540.0,table
 Rockledge,West Hartford,race,Race and ethnicity,White non-Hispanic population,5443.0,table
 West Hartford Center,West Hartford,race,Race and ethnicity,White non-Hispanic population,4195.0,table
+Hartford,,race,Race and ethnicity,White non-Hispanic population,19268.0,table
+West Hartford,,race,Race and ethnicity,White non-Hispanic population,46858.0,table
+Connecticut,,race,Race and ethnicity,White non-Hispanic population,2487119.0,table
 Asylum Hill,Hartford,race,Race and ethnicity,Percent white residents,0.125,map
 Barry Square,Hartford,race,Race and ethnicity,Percent white residents,0.179,map
 Behind the Rocks,Hartford,race,Race and ethnicity,Percent white residents,0.081,map
@@ -259,6 +286,9 @@ Mountain West,West Hartford,race,Race and ethnicity,Percent white residents,0.87
 New Park,West Hartford,race,Race and ethnicity,Percent white residents,0.414,map
 Rockledge,West Hartford,race,Race and ethnicity,Percent white residents,0.832,map
 West Hartford Center,West Hartford,race,Race and ethnicity,Percent white residents,0.852,map
+Hartford,,race,Race and ethnicity,Percent white residents,0.154,table
+West Hartford,,race,Race and ethnicity,Percent white residents,0.74,table
+Connecticut,,race,Race and ethnicity,Percent white residents,0.692,table
 Asylum Hill,Hartford,race,Race and ethnicity,Black population,4664.0,table
 Barry Square,Hartford,race,Race and ethnicity,Black population,2878.0,table
 Behind the Rocks,Hartford,race,Race and ethnicity,Black population,1528.0,table
@@ -285,6 +315,9 @@ Mountain West,West Hartford,race,Race and ethnicity,Black population,233.0,table
 New Park,West Hartford,race,Race and ethnicity,Black population,1006.0,table
 Rockledge,West Hartford,race,Race and ethnicity,Black population,167.0,table
 West Hartford Center,West Hartford,race,Race and ethnicity,Black population,92.0,table
+Hartford,,race,Race and ethnicity,Black population,43878.0,table
+West Hartford,,race,Race and ethnicity,Black population,4282.0,table
+Connecticut,,race,Race and ethnicity,Black population,346206.0,table
 Asylum Hill,Hartford,race,Race and ethnicity,Percent black residents,0.473,map
 Barry Square,Hartford,race,Race and ethnicity,Percent black residents,0.186,map
 Behind the Rocks,Hartford,race,Race and ethnicity,Percent black residents,0.18,map
@@ -311,6 +344,9 @@ Mountain West,West Hartford,race,Race and ethnicity,Percent black residents,0.05
 New Park,West Hartford,race,Race and ethnicity,Percent black residents,0.164,map
 Rockledge,West Hartford,race,Race and ethnicity,Percent black residents,0.026,map
 West Hartford Center,West Hartford,race,Race and ethnicity,Percent black residents,0.019,map
+Hartford,,race,Race and ethnicity,Percent black residents,0.352,table
+West Hartford,,race,Race and ethnicity,Percent black residents,0.068,table
+Connecticut,,race,Race and ethnicity,Percent black residents,0.096,table
 Asylum Hill,Hartford,race,Race and ethnicity,Other race population,1053.0,table
 Barry Square,Hartford,race,Race and ethnicity,Other race population,945.0,table
 Behind the Rocks,Hartford,race,Race and ethnicity,Other race population,499.0,table
@@ -337,6 +373,9 @@ Mountain West,West Hartford,race,Race and ethnicity,Other race population,318.0,
 New Park,West Hartford,race,Race and ethnicity,Other race population,1014.0,table
 Rockledge,West Hartford,race,Race and ethnicity,Other race population,358.0,table
 West Hartford Center,West Hartford,race,Race and ethnicity,Other race population,432.0,table
+Hartford,,race,Race and ethnicity,Other race population,6441.0,table
+West Hartford,,race,Race and ethnicity,Other race population,5993.0,table
+Connecticut,,race,Race and ethnicity,Other race population,233389.0,table
 Asylum Hill,Hartford,race,Race and ethnicity,Percent other race residents,0.107,map
 Barry Square,Hartford,race,Race and ethnicity,Percent other race residents,0.061,map
 Behind the Rocks,Hartford,race,Race and ethnicity,Percent other race residents,0.059,map
@@ -363,6 +402,9 @@ Mountain West,West Hartford,race,Race and ethnicity,Percent other race residents
 New Park,West Hartford,race,Race and ethnicity,Percent other race residents,0.165,map
 Rockledge,West Hartford,race,Race and ethnicity,Percent other race residents,0.055,map
 West Hartford Center,West Hartford,race,Race and ethnicity,Percent other race residents,0.088,map
+Hartford,,race,Race and ethnicity,Percent other race residents,0.052,table
+West Hartford,,race,Race and ethnicity,Percent other race residents,0.095,table
+Connecticut,,race,Race and ethnicity,Percent other race residents,0.065,table
 Asylum Hill,Hartford,immigration,Immigration,Total population,9859.0,table
 Barry Square,Hartford,immigration,Immigration,Total population,15485.0,table
 Behind the Rocks,Hartford,immigration,Immigration,Total population,8484.0,table
@@ -389,6 +431,9 @@ Mountain West,West Hartford,immigration,Immigration,Total population,4452.0,tabl
 New Park,West Hartford,immigration,Immigration,Total population,6142.0,table
 Rockledge,West Hartford,immigration,Immigration,Total population,6541.0,table
 West Hartford Center,West Hartford,immigration,Immigration,Total population,4922.0,table
+Hartford,,immigration,Immigration,Total population,124795.0,table
+West Hartford,,immigration,Immigration,Total population,63288.0,table
+Connecticut,,immigration,Immigration,Total population,3593222.0,table
 Asylum Hill,Hartford,immigration,Immigration,Foreign-born population,2622.0,table
 Barry Square,Hartford,immigration,Immigration,Foreign-born population,3319.0,table
 Behind the Rocks,Hartford,immigration,Immigration,Foreign-born population,1311.0,table
@@ -415,6 +460,9 @@ Mountain West,West Hartford,immigration,Immigration,Foreign-born population,523.
 New Park,West Hartford,immigration,Immigration,Foreign-born population,1859.0,table
 Rockledge,West Hartford,immigration,Immigration,Foreign-born population,735.0,table
 West Hartford Center,West Hartford,immigration,Immigration,Foreign-born population,428.0,table
+Hartford,,immigration,Immigration,Foreign-born population,28099.0,table
+West Hartford,,immigration,Immigration,Foreign-born population,10891.0,table
+Connecticut,,immigration,Immigration,Foreign-born population,500161.0,table
 Asylum Hill,Hartford,immigration,Immigration,Percent foreign-born,0.266,map
 Barry Square,Hartford,immigration,Immigration,Percent foreign-born,0.214,map
 Behind the Rocks,Hartford,immigration,Immigration,Percent foreign-born,0.155,map
@@ -441,6 +489,9 @@ Mountain West,West Hartford,immigration,Immigration,Percent foreign-born,0.117,m
 New Park,West Hartford,immigration,Immigration,Percent foreign-born,0.303,map
 Rockledge,West Hartford,immigration,Immigration,Percent foreign-born,0.112,map
 West Hartford Center,West Hartford,immigration,Immigration,Percent foreign-born,0.087,map
+Hartford,,immigration,Immigration,Percent foreign-born,0.225,table
+West Hartford,,immigration,Immigration,Percent foreign-born,0.172,table
+Connecticut,,immigration,Immigration,Percent foreign-born,0.139,table
 Asylum Hill,Hartford,households,Households,Total households,5262.0,table
 Barry Square,Hartford,households,Households,Total households,4676.0,table
 Behind the Rocks,Hartford,households,Households,Total households,2809.0,table
@@ -467,58 +518,67 @@ Mountain West,West Hartford,households,Households,Total households,1567.0,table
 New Park,West Hartford,households,Households,Total households,2530.0,table
 Rockledge,West Hartford,households,Households,Total households,2587.0,table
 West Hartford Center,West Hartford,households,Households,Total households,2024.0,table
-Asylum Hill,Hartford,households,Households,Owner-occupied households,608.0,table
-Barry Square,Hartford,households,Households,Owner-occupied households,977.0,table
-Behind the Rocks,Hartford,households,Households,Owner-occupied households,998.0,table
-Bishops Corner West,Hartford,households,Households,Owner-occupied households,2525.0,table
-Blue Hills,Hartford,households,Households,Owner-occupied households,1731.0,table
-Clay Arsenal,Hartford,households,Households,Owner-occupied households,256.0,table
-Downtown,Hartford,households,Households,Owner-occupied households,275.0,table
-Frog Hollow,Hartford,households,Households,Owner-occupied households,228.0,table
-Northeast,Hartford,households,Households,Owner-occupied households,769.0,table
-Parkville,Hartford,households,Households,Owner-occupied households,238.0,table
-Sheldon Charter Oak,Hartford,households,Households,Owner-occupied households,56.0,table
-South End & South Meadows,Hartford,households,Households,Owner-occupied households,1497.0,table
-South Green,Hartford,households,Households,Owner-occupied households,77.0,table
-Southwest,Hartford,households,Households,Owner-occupied households,1753.0,table
-Upper Albany,Hartford,households,Households,Owner-occupied households,431.0,table
-West End,Hartford,households,Households,Owner-occupied households,849.0,table
-Buena Vista,West Hartford,households,Households,Owner-occupied households,1078.0,table
-Corbins Corner,West Hartford,households,Households,Owner-occupied households,1420.0,table
-Elizabeth Park,West Hartford,households,Households,Owner-occupied households,1459.0,table
-Farmington East,West Hartford,households,Households,Owner-occupied households,2240.0,table
-Golf Acres,West Hartford,households,Households,Owner-occupied households,1930.0,table
-Kennedy Park,West Hartford,households,Households,Owner-occupied households,771.0,table
-Mountain West,West Hartford,households,Households,Owner-occupied households,1358.0,table
-New Park,West Hartford,households,Households,Owner-occupied households,1356.0,table
-Rockledge,West Hartford,households,Households,Owner-occupied households,2249.0,table
-West Hartford Center,West Hartford,households,Households,Owner-occupied households,1567.0,table
-Asylum Hill,Hartford,households,Households,Homeownership rate,0.116,map
-Barry Square,Hartford,households,Households,Homeownership rate,0.209,map
-Behind the Rocks,Hartford,households,Households,Homeownership rate,0.355,map
-Bishops Corner West,Hartford,households,Households,Homeownership rate,0.827,map
-Blue Hills,Hartford,households,Households,Homeownership rate,0.563,map
-Clay Arsenal,Hartford,households,Households,Homeownership rate,0.116,map
-Downtown,Hartford,households,Households,Homeownership rate,0.198,map
-Frog Hollow,Hartford,households,Households,Homeownership rate,0.067,map
-Northeast,Hartford,households,Households,Homeownership rate,0.2,map
-Parkville,Hartford,households,Households,Homeownership rate,0.146,map
-Sheldon Charter Oak,Hartford,households,Households,Homeownership rate,0.039,map
-South End & South Meadows,Hartford,households,Households,Homeownership rate,0.31,map
-South Green,Hartford,households,Households,Homeownership rate,0.083,map
-Southwest,Hartford,households,Households,Homeownership rate,0.648,map
-Upper Albany,Hartford,households,Households,Homeownership rate,0.18,map
-West End,Hartford,households,Households,Homeownership rate,0.183,map
-Buena Vista,West Hartford,households,Households,Homeownership rate,0.935,map
-Corbins Corner,West Hartford,households,Households,Homeownership rate,0.835,map
-Elizabeth Park,West Hartford,households,Households,Homeownership rate,0.963,map
-Farmington East,West Hartford,households,Households,Homeownership rate,0.461,map
-Golf Acres,West Hartford,households,Households,Homeownership rate,0.824,map
-Kennedy Park,West Hartford,households,Households,Homeownership rate,0.479,map
-Mountain West,West Hartford,households,Households,Homeownership rate,0.867,map
-New Park,West Hartford,households,Households,Homeownership rate,0.536,map
-Rockledge,West Hartford,households,Households,Homeownership rate,0.869,map
-West Hartford Center,West Hartford,households,Households,Homeownership rate,0.774,map
+Hartford,,households,Households,Total households,45239.0,table
+West Hartford,,households,Households,Total households,24935.0,table
+Connecticut,,households,Households,Total households,1352583.0,table
+Asylum Hill,Hartford,households,Households,Owner-occupied households,608.0,map
+Barry Square,Hartford,households,Households,Owner-occupied households,977.0,map
+Behind the Rocks,Hartford,households,Households,Owner-occupied households,998.0,map
+Bishops Corner West,Hartford,households,Households,Owner-occupied households,2525.0,map
+Blue Hills,Hartford,households,Households,Owner-occupied households,1731.0,map
+Clay Arsenal,Hartford,households,Households,Owner-occupied households,256.0,map
+Downtown,Hartford,households,Households,Owner-occupied households,275.0,map
+Frog Hollow,Hartford,households,Households,Owner-occupied households,228.0,map
+Northeast,Hartford,households,Households,Owner-occupied households,769.0,map
+Parkville,Hartford,households,Households,Owner-occupied households,238.0,map
+Sheldon Charter Oak,Hartford,households,Households,Owner-occupied households,56.0,map
+South End & South Meadows,Hartford,households,Households,Owner-occupied households,1497.0,map
+South Green,Hartford,households,Households,Owner-occupied households,77.0,map
+Southwest,Hartford,households,Households,Owner-occupied households,1753.0,map
+Upper Albany,Hartford,households,Households,Owner-occupied households,431.0,map
+West End,Hartford,households,Households,Owner-occupied households,849.0,map
+Buena Vista,West Hartford,households,Households,Owner-occupied households,1078.0,map
+Corbins Corner,West Hartford,households,Households,Owner-occupied households,1420.0,map
+Elizabeth Park,West Hartford,households,Households,Owner-occupied households,1459.0,map
+Farmington East,West Hartford,households,Households,Owner-occupied households,2240.0,map
+Golf Acres,West Hartford,households,Households,Owner-occupied households,1930.0,map
+Kennedy Park,West Hartford,households,Households,Owner-occupied households,771.0,map
+Mountain West,West Hartford,households,Households,Owner-occupied households,1358.0,map
+New Park,West Hartford,households,Households,Owner-occupied households,1356.0,map
+Rockledge,West Hartford,households,Households,Owner-occupied households,2249.0,map
+West Hartford Center,West Hartford,households,Households,Owner-occupied households,1567.0,map
+Hartford,,households,Households,Owner-occupied households,10743.0,table
+West Hartford,,households,Households,Owner-occupied households,17953.0,table
+Connecticut,,households,Households,Owner-occupied households,906227.0,table
+Asylum Hill,Hartford,households,Households,Homeownership rate,0.116,table
+Barry Square,Hartford,households,Households,Homeownership rate,0.209,table
+Behind the Rocks,Hartford,households,Households,Homeownership rate,0.355,table
+Bishops Corner West,Hartford,households,Households,Homeownership rate,0.827,table
+Blue Hills,Hartford,households,Households,Homeownership rate,0.563,table
+Clay Arsenal,Hartford,households,Households,Homeownership rate,0.116,table
+Downtown,Hartford,households,Households,Homeownership rate,0.198,table
+Frog Hollow,Hartford,households,Households,Homeownership rate,0.067,table
+Northeast,Hartford,households,Households,Homeownership rate,0.2,table
+Parkville,Hartford,households,Households,Homeownership rate,0.146,table
+Sheldon Charter Oak,Hartford,households,Households,Homeownership rate,0.039,table
+South End & South Meadows,Hartford,households,Households,Homeownership rate,0.31,table
+South Green,Hartford,households,Households,Homeownership rate,0.083,table
+Southwest,Hartford,households,Households,Homeownership rate,0.648,table
+Upper Albany,Hartford,households,Households,Homeownership rate,0.18,table
+West End,Hartford,households,Households,Homeownership rate,0.183,table
+Buena Vista,West Hartford,households,Households,Homeownership rate,0.935,table
+Corbins Corner,West Hartford,households,Households,Homeownership rate,0.835,table
+Elizabeth Park,West Hartford,households,Households,Homeownership rate,0.963,table
+Farmington East,West Hartford,households,Households,Homeownership rate,0.461,table
+Golf Acres,West Hartford,households,Households,Homeownership rate,0.824,table
+Kennedy Park,West Hartford,households,Households,Homeownership rate,0.479,table
+Mountain West,West Hartford,households,Households,Homeownership rate,0.867,table
+New Park,West Hartford,households,Households,Homeownership rate,0.536,table
+Rockledge,West Hartford,households,Households,Homeownership rate,0.869,table
+West Hartford Center,West Hartford,households,Households,Homeownership rate,0.774,table
+Hartford,,households,Households,Homeownership rate,0.237,table
+West Hartford,,households,Households,Homeownership rate,0.72,table
+Connecticut,,households,Households,Homeownership rate,0.67,table
 Asylum Hill,Hartford,income,Income,Poverty status known,9759.0,table
 Barry Square,Hartford,income,Income,Poverty status known,13375.0,table
 Behind the Rocks,Hartford,income,Income,Poverty status known,8367.0,table
@@ -545,6 +605,9 @@ Mountain West,West Hartford,income,Income,Poverty status known,4452.0,table
 New Park,West Hartford,income,Income,Poverty status known,6119.0,table
 Rockledge,West Hartford,income,Income,Poverty status known,6538.0,table
 West Hartford Center,West Hartford,income,Income,Poverty status known,4912.0,table
+Hartford,,income,Income,Poverty status known,117763.0,table
+West Hartford,,income,Income,Poverty status known,61435.0,table
+Connecticut,,income,Income,Poverty status known,3483303.0,table
 Asylum Hill,Hartford,income,Income,Population in poverty,2555.0,table
 Barry Square,Hartford,income,Income,Population in poverty,5577.0,table
 Behind the Rocks,Hartford,income,Income,Population in poverty,2977.0,table
@@ -571,6 +634,9 @@ Mountain West,West Hartford,income,Income,Population in poverty,177.0,table
 New Park,West Hartford,income,Income,Population in poverty,1089.0,table
 Rockledge,West Hartford,income,Income,Population in poverty,306.0,table
 West Hartford Center,West Hartford,income,Income,Population in poverty,273.0,table
+Hartford,,income,Income,Population in poverty,39367.0,table
+West Hartford,,income,Income,Population in poverty,4911.0,table
+Connecticut,,income,Income,Population in poverty,366351.0,table
 Asylum Hill,Hartford,income,Income,Poverty rate,0.262,map
 Barry Square,Hartford,income,Income,Poverty rate,0.417,map
 Behind the Rocks,Hartford,income,Income,Poverty rate,0.356,map
@@ -597,6 +663,9 @@ Mountain West,West Hartford,income,Income,Poverty rate,0.04,map
 New Park,West Hartford,income,Income,Poverty rate,0.178,map
 Rockledge,West Hartford,income,Income,Poverty rate,0.047,map
 West Hartford Center,West Hartford,income,Income,Poverty rate,0.056,map
+Hartford,,income,Income,Poverty rate,0.334,table
+West Hartford,,income,Income,Poverty rate,0.08,table
+Connecticut,,income,Income,Poverty rate,0.105,table
 Asylum Hill,Hartford,income,Income,Population low-income,2404.0,table
 Barry Square,Hartford,income,Income,Population low-income,4259.0,table
 Behind the Rocks,Hartford,income,Income,Population low-income,1953.0,table
@@ -623,6 +692,9 @@ Mountain West,West Hartford,income,Income,Population low-income,140.0,table
 New Park,West Hartford,income,Income,Population low-income,1092.0,table
 Rockledge,West Hartford,income,Income,Population low-income,411.0,table
 West Hartford Center,West Hartford,income,Income,Population low-income,244.0,table
+Hartford,,income,Income,Population low-income,31387.0,table
+West Hartford,,income,Income,Population low-income,6022.0,table
+Connecticut,,income,Income,Population low-income,456381.0,table
 Asylum Hill,Hartford,income,Income,Low-income rate,0.246,map
 Barry Square,Hartford,income,Income,Low-income rate,0.318,map
 Behind the Rocks,Hartford,income,Income,Low-income rate,0.233,map
@@ -649,6 +721,9 @@ Mountain West,West Hartford,income,Income,Low-income rate,0.031,map
 New Park,West Hartford,income,Income,Low-income rate,0.178,map
 Rockledge,West Hartford,income,Income,Low-income rate,0.063,map
 West Hartford Center,West Hartford,income,Income,Low-income rate,0.05,map
+Hartford,,income,Income,Low-income rate,0.267,table
+West Hartford,,income,Income,Low-income rate,0.098,table
+Connecticut,,income,Income,Low-income rate,0.131,table
 Asylum Hill,Hartford,income,Income,Population more than 2x poverty level,4800.0,table
 Barry Square,Hartford,income,Income,Population more than 2x poverty level,3539.0,table
 Behind the Rocks,Hartford,income,Income,Population more than 2x poverty level,3437.0,table
@@ -675,32 +750,38 @@ Mountain West,West Hartford,income,Income,Population more than 2x poverty level,
 New Park,West Hartford,income,Income,Population more than 2x poverty level,3938.0,table
 Rockledge,West Hartford,income,Income,Population more than 2x poverty level,5821.0,table
 West Hartford Center,West Hartford,income,Income,Population more than 2x poverty level,4395.0,table
-Asylum Hill,Hartford,income,Income,More than 2x poverty level,0.492,map
-Barry Square,Hartford,income,Income,More than 2x poverty level,0.265,map
-Behind the Rocks,Hartford,income,Income,More than 2x poverty level,0.411,map
-Bishops Corner West,Hartford,income,Income,More than 2x poverty level,0.832,map
-Blue Hills,Hartford,income,Income,More than 2x poverty level,0.591,map
-Clay Arsenal,Hartford,income,Income,More than 2x poverty level,0.232,map
-Downtown,Hartford,income,Income,More than 2x poverty level,0.758,map
-Frog Hollow,Hartford,income,Income,More than 2x poverty level,0.298,map
-Northeast,Hartford,income,Income,More than 2x poverty level,0.304,map
-Parkville,Hartford,income,Income,More than 2x poverty level,0.212,map
-Sheldon Charter Oak,Hartford,income,Income,More than 2x poverty level,0.317,map
-South End & South Meadows,Hartford,income,Income,More than 2x poverty level,0.451,map
-South Green,Hartford,income,Income,More than 2x poverty level,0.261,map
-Southwest,Hartford,income,Income,More than 2x poverty level,0.584,map
-Upper Albany,Hartford,income,Income,More than 2x poverty level,0.359,map
-West End,Hartford,income,Income,More than 2x poverty level,0.492,map
-Buena Vista,West Hartford,income,Income,More than 2x poverty level,0.835,map
-Corbins Corner,West Hartford,income,Income,More than 2x poverty level,0.862,map
-Elizabeth Park,West Hartford,income,Income,More than 2x poverty level,0.934,map
-Farmington East,West Hartford,income,Income,More than 2x poverty level,0.733,map
-Golf Acres,West Hartford,income,Income,More than 2x poverty level,0.9,map
-Kennedy Park,West Hartford,income,Income,More than 2x poverty level,0.693,map
-Mountain West,West Hartford,income,Income,More than 2x poverty level,0.929,map
-New Park,West Hartford,income,Income,More than 2x poverty level,0.644,map
-Rockledge,West Hartford,income,Income,More than 2x poverty level,0.89,map
-West Hartford Center,West Hartford,income,Income,More than 2x poverty level,0.895,map
+Hartford,,income,Income,Population more than 2x poverty level,47009.0,table
+West Hartford,,income,Income,Population more than 2x poverty level,50502.0,table
+Connecticut,,income,Income,Population more than 2x poverty level,2660571.0,table
+Asylum Hill,Hartford,income,Income,More than 2x poverty level rate,0.492,map
+Barry Square,Hartford,income,Income,More than 2x poverty level rate,0.265,map
+Behind the Rocks,Hartford,income,Income,More than 2x poverty level rate,0.411,map
+Bishops Corner West,Hartford,income,Income,More than 2x poverty level rate,0.832,map
+Blue Hills,Hartford,income,Income,More than 2x poverty level rate,0.591,map
+Clay Arsenal,Hartford,income,Income,More than 2x poverty level rate,0.232,map
+Downtown,Hartford,income,Income,More than 2x poverty level rate,0.758,map
+Frog Hollow,Hartford,income,Income,More than 2x poverty level rate,0.298,map
+Northeast,Hartford,income,Income,More than 2x poverty level rate,0.304,map
+Parkville,Hartford,income,Income,More than 2x poverty level rate,0.212,map
+Sheldon Charter Oak,Hartford,income,Income,More than 2x poverty level rate,0.317,map
+South End & South Meadows,Hartford,income,Income,More than 2x poverty level rate,0.451,map
+South Green,Hartford,income,Income,More than 2x poverty level rate,0.261,map
+Southwest,Hartford,income,Income,More than 2x poverty level rate,0.584,map
+Upper Albany,Hartford,income,Income,More than 2x poverty level rate,0.359,map
+West End,Hartford,income,Income,More than 2x poverty level rate,0.492,map
+Buena Vista,West Hartford,income,Income,More than 2x poverty level rate,0.835,map
+Corbins Corner,West Hartford,income,Income,More than 2x poverty level rate,0.862,map
+Elizabeth Park,West Hartford,income,Income,More than 2x poverty level rate,0.934,map
+Farmington East,West Hartford,income,Income,More than 2x poverty level rate,0.733,map
+Golf Acres,West Hartford,income,Income,More than 2x poverty level rate,0.9,map
+Kennedy Park,West Hartford,income,Income,More than 2x poverty level rate,0.693,map
+Mountain West,West Hartford,income,Income,More than 2x poverty level rate,0.929,map
+New Park,West Hartford,income,Income,More than 2x poverty level rate,0.644,map
+Rockledge,West Hartford,income,Income,More than 2x poverty level rate,0.89,map
+West Hartford Center,West Hartford,income,Income,More than 2x poverty level rate,0.895,map
+Hartford,,income,Income,More than 2x poverty level rate,0.399,table
+West Hartford,,income,Income,More than 2x poverty level rate,0.822,table
+Connecticut,,income,Income,More than 2x poverty level rate,0.764,table
 Asylum Hill,Hartford,income_kids,Income by age: children,"Ages 0-17, poverty status known",1757.0,table
 Barry Square,Hartford,income_kids,Income by age: children,"Ages 0-17, poverty status known",3924.0,table
 Behind the Rocks,Hartford,income_kids,Income by age: children,"Ages 0-17, poverty status known",2385.0,table
@@ -727,6 +808,9 @@ Mountain West,West Hartford,income_kids,Income by age: children,"Ages 0-17, pove
 New Park,West Hartford,income_kids,Income by age: children,"Ages 0-17, poverty status known",1109.0,table
 Rockledge,West Hartford,income_kids,Income by age: children,"Ages 0-17, poverty status known",1671.0,table
 West Hartford Center,West Hartford,income_kids,Income by age: children,"Ages 0-17, poverty status known",1269.0,table
+Hartford,,income_kids,Income by age: children,"Ages 0-17, poverty status known",30654.0,table
+West Hartford,,income_kids,Income by age: children,"Ages 0-17, poverty status known",14012.0,table
+Connecticut,,income_kids,Income by age: children,"Ages 0-17, poverty status known",774939.0,table
 Asylum Hill,Hartford,income_kids,Income by age: children,Children in poverty,706.0,table
 Barry Square,Hartford,income_kids,Income by age: children,Children in poverty,2012.0,table
 Behind the Rocks,Hartford,income_kids,Income by age: children,Children in poverty,1388.0,table
@@ -753,6 +837,9 @@ Mountain West,West Hartford,income_kids,Income by age: children,Children in pove
 New Park,West Hartford,income_kids,Income by age: children,Children in poverty,326.0,table
 Rockledge,West Hartford,income_kids,Income by age: children,Children in poverty,55.0,table
 West Hartford Center,West Hartford,income_kids,Income by age: children,Children in poverty,81.0,table
+Hartford,,income_kids,Income by age: children,Children in poverty,13733.0,table
+West Hartford,,income_kids,Income by age: children,Children in poverty,1390.0,table
+Connecticut,,income_kids,Income by age: children,Children in poverty,110916.0,table
 Asylum Hill,Hartford,income_kids,Income by age: children,Child poverty rate,0.402,map
 Barry Square,Hartford,income_kids,Income by age: children,Child poverty rate,0.513,map
 Behind the Rocks,Hartford,income_kids,Income by age: children,Child poverty rate,0.582,map
@@ -779,6 +866,9 @@ Mountain West,West Hartford,income_kids,Income by age: children,Child poverty ra
 New Park,West Hartford,income_kids,Income by age: children,Child poverty rate,0.294,map
 Rockledge,West Hartford,income_kids,Income by age: children,Child poverty rate,0.033,map
 West Hartford Center,West Hartford,income_kids,Income by age: children,Child poverty rate,0.064,map
+Hartford,,income_kids,Income by age: children,Child poverty rate,0.448,table
+West Hartford,,income_kids,Income by age: children,Child poverty rate,0.099,table
+Connecticut,,income_kids,Income by age: children,Child poverty rate,0.143,table
 Asylum Hill,Hartford,income_kids,Income by age: children,Low-income children,1236.0,table
 Barry Square,Hartford,income_kids,Income by age: children,Low-income children,3387.0,table
 Behind the Rocks,Hartford,income_kids,Income by age: children,Low-income children,1848.0,table
@@ -805,6 +895,9 @@ Mountain West,West Hartford,income_kids,Income by age: children,Low-income child
 New Park,West Hartford,income_kids,Income by age: children,Low-income children,534.0,table
 Rockledge,West Hartford,income_kids,Income by age: children,Low-income children,175.0,table
 West Hartford Center,West Hartford,income_kids,Income by age: children,Low-income children,95.0,table
+Hartford,,income_kids,Income by age: children,Low-income children,23378.0,table
+West Hartford,,income_kids,Income by age: children,Low-income children,2836.0,table
+Connecticut,,income_kids,Income by age: children,Low-income children,232822.0,table
 Asylum Hill,Hartford,income_kids,Income by age: children,Child low-income rate,0.703,map
 Barry Square,Hartford,income_kids,Income by age: children,Child low-income rate,0.863,map
 Behind the Rocks,Hartford,income_kids,Income by age: children,Child low-income rate,0.775,map
@@ -831,6 +924,9 @@ Mountain West,West Hartford,income_kids,Income by age: children,Child low-income
 New Park,West Hartford,income_kids,Income by age: children,Child low-income rate,0.482,map
 Rockledge,West Hartford,income_kids,Income by age: children,Child low-income rate,0.105,map
 West Hartford Center,West Hartford,income_kids,Income by age: children,Child low-income rate,0.075,map
+Hartford,,income_kids,Income by age: children,Child low-income rate,0.763,table
+West Hartford,,income_kids,Income by age: children,Child low-income rate,0.202,table
+Connecticut,,income_kids,Income by age: children,Child low-income rate,0.3,table
 Asylum Hill,Hartford,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",956.0,table
 Barry Square,Hartford,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",1096.0,table
 Behind the Rocks,Hartford,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",626.0,table
@@ -857,6 +953,9 @@ Mountain West,West Hartford,income_seniors,Income by age: seniors,"Ages 65+, pov
 New Park,West Hartford,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",640.0,table
 Rockledge,West Hartford,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",956.0,table
 West Hartford Center,West Hartford,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",646.0,table
+Hartford,,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",11543.0,table
+West Hartford,,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",10371.0,table
+Connecticut,,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",520371.0,table
 Asylum Hill,Hartford,income_seniors,Income by age: seniors,Seniors in poverty,218.0,table
 Barry Square,Hartford,income_seniors,Income by age: seniors,Seniors in poverty,322.0,table
 Behind the Rocks,Hartford,income_seniors,Income by age: seniors,Seniors in poverty,130.0,table
@@ -883,6 +982,9 @@ Mountain West,West Hartford,income_seniors,Income by age: seniors,Seniors in pov
 New Park,West Hartford,income_seniors,Income by age: seniors,Seniors in poverty,66.0,table
 Rockledge,West Hartford,income_seniors,Income by age: seniors,Seniors in poverty,61.0,table
 West Hartford Center,West Hartford,income_seniors,Income by age: seniors,Seniors in poverty,27.0,table
+Hartford,,income_seniors,Income by age: seniors,Seniors in poverty,3101.0,table
+West Hartford,,income_seniors,Income by age: seniors,Seniors in poverty,841.0,table
+Connecticut,,income_seniors,Income by age: seniors,Seniors in poverty,37164.0,table
 Asylum Hill,Hartford,income_seniors,Income by age: seniors,Senior poverty rate,0.228,map
 Barry Square,Hartford,income_seniors,Income by age: seniors,Senior poverty rate,0.294,map
 Behind the Rocks,Hartford,income_seniors,Income by age: seniors,Senior poverty rate,0.208,map
@@ -909,6 +1011,9 @@ Mountain West,West Hartford,income_seniors,Income by age: seniors,Senior poverty
 New Park,West Hartford,income_seniors,Income by age: seniors,Senior poverty rate,0.103,map
 Rockledge,West Hartford,income_seniors,Income by age: seniors,Senior poverty rate,0.064,map
 West Hartford Center,West Hartford,income_seniors,Income by age: seniors,Senior poverty rate,0.042,map
+Hartford,,income_seniors,Income by age: seniors,Senior poverty rate,0.269,table
+West Hartford,,income_seniors,Income by age: seniors,Senior poverty rate,0.081,table
+Connecticut,,income_seniors,Income by age: seniors,Senior poverty rate,0.071,table
 Asylum Hill,Hartford,income_seniors,Income by age: seniors,Low-income seniors,570.0,table
 Barry Square,Hartford,income_seniors,Income by age: seniors,Low-income seniors,684.0,table
 Behind the Rocks,Hartford,income_seniors,Income by age: seniors,Low-income seniors,251.0,table
@@ -935,6 +1040,9 @@ Mountain West,West Hartford,income_seniors,Income by age: seniors,Low-income sen
 New Park,West Hartford,income_seniors,Income by age: seniors,Low-income seniors,192.0,table
 Rockledge,West Hartford,income_seniors,Income by age: seniors,Low-income seniors,170.0,table
 West Hartford Center,West Hartford,income_seniors,Income by age: seniors,Low-income seniors,123.0,table
+Hartford,,income_seniors,Income by age: seniors,Low-income seniors,6533.0,table
+West Hartford,,income_seniors,Income by age: seniors,Low-income seniors,2316.0,table
+Connecticut,,income_seniors,Income by age: seniors,Low-income seniors,123911.0,table
 Asylum Hill,Hartford,income_seniors,Income by age: seniors,Senior low-income rate,0.596,map
 Barry Square,Hartford,income_seniors,Income by age: seniors,Senior low-income rate,0.624,map
 Behind the Rocks,Hartford,income_seniors,Income by age: seniors,Senior low-income rate,0.401,map
@@ -961,3 +1069,6 @@ Mountain West,West Hartford,income_seniors,Income by age: seniors,Senior low-inc
 New Park,West Hartford,income_seniors,Income by age: seniors,Senior low-income rate,0.3,map
 Rockledge,West Hartford,income_seniors,Income by age: seniors,Senior low-income rate,0.178,map
 West Hartford Center,West Hartford,income_seniors,Income by age: seniors,Senior low-income rate,0.19,map
+Hartford,,income_seniors,Income by age: seniors,Senior low-income rate,0.566,table
+West Hartford,,income_seniors,Income by age: seniors,Senior low-income rate,0.223,table
+Connecticut,,income_seniors,Income by age: seniors,Senior low-income rate,0.238,table

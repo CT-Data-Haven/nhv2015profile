@@ -18,6 +18,8 @@ West River,age,Age,Total population,3960.0,table
 West Rock,age,Age,Total population,4132.0,table
 Westville,age,Age,Total population,8830.0,table
 Wooster Square/Mill River,age,Age,Total population,3418.0,table
+New Haven,age,Age,Total population,130612.0,table
+Connecticut,age,Age,Total population,3593222.0,table
 Amity,age,Age,Population ages 0-17,1278.0,table
 Annex,age,Age,Population ages 0-17,1442.0,table
 Beaver Hills,age,Age,Population ages 0-17,1725.0,table
@@ -37,6 +39,8 @@ West River,age,Age,Population ages 0-17,942.0,table
 West Rock,age,Age,Population ages 0-17,499.0,table
 Westville,age,Age,Population ages 0-17,1892.0,table
 Wooster Square/Mill River,age,Age,Population ages 0-17,572.0,table
+New Haven,age,Age,Population ages 0-17,28875.0,table
+Connecticut,age,Age,Population ages 0-17,784736.0,table
 Amity,age,Age,Percent ages 0-17,0.267,map
 Annex,age,Age,Percent ages 0-17,0.231,map
 Beaver Hills,age,Age,Percent ages 0-17,0.312,map
@@ -56,6 +60,8 @@ West River,age,Age,Percent ages 0-17,0.238,map
 West Rock,age,Age,Percent ages 0-17,0.121,map
 Westville,age,Age,Percent ages 0-17,0.214,map
 Wooster Square/Mill River,age,Age,Percent ages 0-17,0.167,map
+New Haven,age,Age,Percent ages 0-17,0.221,table
+Connecticut,age,Age,Percent ages 0-17,0.218,table
 Amity,age,Age,Population ages 65+,421.0,table
 Annex,age,Age,Population ages 65+,583.0,table
 Beaver Hills,age,Age,Population ages 65+,575.0,table
@@ -75,6 +81,8 @@ West River,age,Age,Population ages 65+,482.0,table
 West Rock,age,Age,Population ages 65+,328.0,table
 Westville,age,Age,Population ages 65+,1173.0,table
 Wooster Square/Mill River,age,Age,Population ages 65+,307.0,table
+New Haven,age,Age,Population ages 65+,13468.0,table
+Connecticut,age,Age,Population ages 65+,542278.0,table
 Amity,age,Age,Percent ages 65+,0.088,map
 Annex,age,Age,Percent ages 65+,0.094,map
 Beaver Hills,age,Age,Percent ages 65+,0.104,map
@@ -94,6 +102,8 @@ West River,age,Age,Percent ages 65+,0.122,map
 West Rock,age,Age,Percent ages 65+,0.079,map
 Westville,age,Age,Percent ages 65+,0.133,map
 Wooster Square/Mill River,age,Age,Percent ages 65+,0.09,map
+New Haven,age,Age,Percent ages 65+,0.103,table
+Connecticut,age,Age,Percent ages 65+,0.151,table
 Amity,race,Race and ethnicity,Total population,4794.0,table
 Annex,race,Race and ethnicity,Total population,6230.0,table
 Beaver Hills,race,Race and ethnicity,Total population,5521.0,table
@@ -113,6 +123,8 @@ West River,race,Race and ethnicity,Total population,3960.0,table
 West Rock,race,Race and ethnicity,Total population,4132.0,table
 Westville,race,Race and ethnicity,Total population,8830.0,table
 Wooster Square/Mill River,race,Race and ethnicity,Total population,3418.0,table
+New Haven,race,Race and ethnicity,Total population,130612.0,table
+Connecticut,race,Race and ethnicity,Total population,3593222.0,table
 Amity,race,Race and ethnicity,Hispanic population,738.0,table
 Annex,race,Race and ethnicity,Hispanic population,2590.0,table
 Beaver Hills,race,Race and ethnicity,Hispanic population,987.0,table
@@ -132,6 +144,8 @@ West River,race,Race and ethnicity,Hispanic population,1392.0,table
 West Rock,race,Race and ethnicity,Hispanic population,491.0,table
 Westville,race,Race and ethnicity,Hispanic population,916.0,table
 Wooster Square/Mill River,race,Race and ethnicity,Hispanic population,823.0,table
+New Haven,race,Race and ethnicity,Hispanic population,36715.0,table
+Connecticut,race,Race and ethnicity,Hispanic population,526508.0,table
 Amity,race,Race and ethnicity,Percent Hispanic residents,0.154,map
 Annex,race,Race and ethnicity,Percent Hispanic residents,0.416,map
 Beaver Hills,race,Race and ethnicity,Percent Hispanic residents,0.179,map
@@ -151,6 +165,8 @@ West River,race,Race and ethnicity,Percent Hispanic residents,0.352,map
 West Rock,race,Race and ethnicity,Percent Hispanic residents,0.119,map
 Westville,race,Race and ethnicity,Percent Hispanic residents,0.104,map
 Wooster Square/Mill River,race,Race and ethnicity,Percent Hispanic residents,0.241,map
+New Haven,race,Race and ethnicity,Percent Hispanic residents,0.281,table
+Connecticut,race,Race and ethnicity,Percent Hispanic residents,0.147,table
 Amity,race,Race and ethnicity,White non-Hispanic population,1118.0,table
 Annex,race,Race and ethnicity,White non-Hispanic population,1931.0,table
 Beaver Hills,race,Race and ethnicity,White non-Hispanic population,945.0,table
@@ -170,6 +186,8 @@ West River,race,Race and ethnicity,White non-Hispanic population,536.0,table
 West Rock,race,Race and ethnicity,White non-Hispanic population,2105.0,table
 Westville,race,Race and ethnicity,White non-Hispanic population,4937.0,table
 Wooster Square/Mill River,race,Race and ethnicity,White non-Hispanic population,1718.0,table
+New Haven,race,Race and ethnicity,White non-Hispanic population,40866.0,table
+Connecticut,race,Race and ethnicity,White non-Hispanic population,2487119.0,table
 Amity,race,Race and ethnicity,Percent white residents,0.233,map
 Annex,race,Race and ethnicity,Percent white residents,0.31,map
 Beaver Hills,race,Race and ethnicity,Percent white residents,0.171,map
@@ -189,6 +207,8 @@ West River,race,Race and ethnicity,Percent white residents,0.135,map
 West Rock,race,Race and ethnicity,Percent white residents,0.509,map
 Westville,race,Race and ethnicity,Percent white residents,0.559,map
 Wooster Square/Mill River,race,Race and ethnicity,Percent white residents,0.503,map
+New Haven,race,Race and ethnicity,Percent white residents,0.313,table
+Connecticut,race,Race and ethnicity,Percent white residents,0.692,table
 Amity,race,Race and ethnicity,Black population,2627.0,table
 Annex,race,Race and ethnicity,Black population,1472.0,table
 Beaver Hills,race,Race and ethnicity,Black population,3340.0,table
@@ -208,6 +228,8 @@ West River,race,Race and ethnicity,Black population,1869.0,table
 West Rock,race,Race and ethnicity,Black population,1270.0,table
 Westville,race,Race and ethnicity,Black population,2362.0,table
 Wooster Square/Mill River,race,Race and ethnicity,Black population,642.0,table
+New Haven,race,Race and ethnicity,Black population,42428.0,table
+Connecticut,race,Race and ethnicity,Black population,346206.0,table
 Amity,race,Race and ethnicity,Percent black residents,0.548,map
 Annex,race,Race and ethnicity,Percent black residents,0.236,map
 Beaver Hills,race,Race and ethnicity,Percent black residents,0.605,map
@@ -227,6 +249,8 @@ West River,race,Race and ethnicity,Percent black residents,0.472,map
 West Rock,race,Race and ethnicity,Percent black residents,0.307,map
 Westville,race,Race and ethnicity,Percent black residents,0.267,map
 Wooster Square/Mill River,race,Race and ethnicity,Percent black residents,0.188,map
+New Haven,race,Race and ethnicity,Percent black residents,0.325,table
+Connecticut,race,Race and ethnicity,Percent black residents,0.096,table
 Amity,race,Race and ethnicity,Other race population,311.0,table
 Annex,race,Race and ethnicity,Other race population,237.0,table
 Beaver Hills,race,Race and ethnicity,Other race population,249.0,table
@@ -246,6 +270,8 @@ West River,race,Race and ethnicity,Other race population,163.0,table
 West Rock,race,Race and ethnicity,Other race population,266.0,table
 Westville,race,Race and ethnicity,Other race population,615.0,table
 Wooster Square/Mill River,race,Race and ethnicity,Other race population,235.0,table
+New Haven,race,Race and ethnicity,Other race population,10603.0,table
+Connecticut,race,Race and ethnicity,Other race population,233389.0,table
 Amity,race,Race and ethnicity,Percent other race residents,0.065,map
 Annex,race,Race and ethnicity,Percent other race residents,0.038,map
 Beaver Hills,race,Race and ethnicity,Percent other race residents,0.045,map
@@ -265,6 +291,8 @@ West River,race,Race and ethnicity,Percent other race residents,0.041,map
 West Rock,race,Race and ethnicity,Percent other race residents,0.064,map
 Westville,race,Race and ethnicity,Percent other race residents,0.07,map
 Wooster Square/Mill River,race,Race and ethnicity,Percent other race residents,0.069,map
+New Haven,race,Race and ethnicity,Percent other race residents,0.081,table
+Connecticut,race,Race and ethnicity,Percent other race residents,0.065,table
 Amity,immigration,Immigration,Total population,4794.0,table
 Annex,immigration,Immigration,Total population,6230.0,table
 Beaver Hills,immigration,Immigration,Total population,5521.0,table
@@ -284,6 +312,8 @@ West River,immigration,Immigration,Total population,3960.0,table
 West Rock,immigration,Immigration,Total population,4132.0,table
 Westville,immigration,Immigration,Total population,8830.0,table
 Wooster Square/Mill River,immigration,Immigration,Total population,3418.0,table
+New Haven,immigration,Immigration,Total population,130612.0,table
+Connecticut,immigration,Immigration,Total population,3593222.0,table
 Amity,immigration,Immigration,Foreign-born population,710.0,table
 Annex,immigration,Immigration,Foreign-born population,1644.0,table
 Beaver Hills,immigration,Immigration,Foreign-born population,628.0,table
@@ -303,6 +333,8 @@ West River,immigration,Immigration,Foreign-born population,643.0,table
 West Rock,immigration,Immigration,Foreign-born population,811.0,table
 Westville,immigration,Immigration,Foreign-born population,1058.0,table
 Wooster Square/Mill River,immigration,Immigration,Foreign-born population,466.0,table
+New Haven,immigration,Immigration,Foreign-born population,21976.0,table
+Connecticut,immigration,Immigration,Foreign-born population,500161.0,table
 Amity,immigration,Immigration,Percent foreign-born,0.148,map
 Annex,immigration,Immigration,Percent foreign-born,0.264,map
 Beaver Hills,immigration,Immigration,Percent foreign-born,0.13,map
@@ -322,6 +354,8 @@ West River,immigration,Immigration,Percent foreign-born,0.162,map
 West Rock,immigration,Immigration,Percent foreign-born,0.129,map
 Westville,immigration,Immigration,Percent foreign-born,0.144,map
 Wooster Square/Mill River,immigration,Immigration,Percent foreign-born,0.136,map
+New Haven,immigration,Immigration,Percent foreign-born,0.168,table
+Connecticut,immigration,Immigration,Percent foreign-born,0.139,table
 Amity,households,Households,Total households,1839.0,table
 Annex,households,Households,Total households,2380.0,table
 Beaver Hills,households,Households,Total households,2065.0,table
@@ -341,6 +375,8 @@ West River,households,Households,Total households,1497.0,table
 West Rock,households,Households,Total households,843.0,table
 Westville,households,Households,Total households,3604.0,table
 Wooster Square/Mill River,households,Households,Total households,1595.0,table
+New Haven,households,Households,Total households,49771.0,table
+Connecticut,households,Households,Total households,1352583.0,table
 Amity,households,Households,Owner-occupied households,913.0,table
 Annex,households,Households,Owner-occupied households,1019.0,table
 Beaver Hills,households,Households,Owner-occupied households,906.0,table
@@ -360,6 +396,8 @@ West River,households,Households,Owner-occupied households,238.0,table
 West Rock,households,Households,Owner-occupied households,123.0,table
 Westville,households,Households,Owner-occupied households,1704.0,table
 Wooster Square/Mill River,households,Households,Owner-occupied households,343.0,table
+New Haven,households,Households,Owner-occupied households,14374.0,table
+Connecticut,households,Households,Owner-occupied households,906227.0,table
 Amity,households,Households,Homeownership rate,0.496,map
 Annex,households,Households,Homeownership rate,0.428,map
 Beaver Hills,households,Households,Homeownership rate,0.439,map
@@ -379,6 +417,8 @@ West River,households,Households,Homeownership rate,0.159,map
 West Rock,households,Households,Homeownership rate,0.146,map
 Westville,households,Households,Homeownership rate,0.473,map
 Wooster Square/Mill River,households,Households,Homeownership rate,0.215,map
+New Haven,households,Households,Homeownership rate,0.289,table
+Connecticut,households,Households,Homeownership rate,0.67,table
 Amity,income,Income,Poverty status known,4794.0,table
 Annex,income,Income,Poverty status known,6168.0,table
 Beaver Hills,income,Income,Poverty status known,5521.0,table
@@ -398,6 +438,8 @@ West River,income,Income,Poverty status known,3741.0,table
 West Rock,income,Income,Poverty status known,2066.0,table
 Westville,income,Income,Poverty status known,8795.0,table
 Wooster Square/Mill River,income,Income,Poverty status known,3382.0,table
+New Haven,income,Income,Poverty status known,121961.0,table
+Connecticut,income,Income,Poverty status known,3483303.0,table
 Amity,income,Income,Population in poverty,1024.0,table
 Annex,income,Income,Population in poverty,1533.0,table
 Beaver Hills,income,Income,Population in poverty,1401.0,table
@@ -417,6 +459,8 @@ West River,income,Income,Population in poverty,1196.0,table
 West Rock,income,Income,Population in poverty,802.0,table
 Westville,income,Income,Population in poverty,888.0,table
 Wooster Square/Mill River,income,Income,Population in poverty,998.0,table
+New Haven,income,Income,Population in poverty,32480.0,table
+Connecticut,income,Income,Population in poverty,366351.0,table
 Amity,income,Income,Poverty rate,0.214,map
 Annex,income,Income,Poverty rate,0.249,map
 Beaver Hills,income,Income,Poverty rate,0.254,map
@@ -436,6 +480,8 @@ West River,income,Income,Poverty rate,0.32,map
 West Rock,income,Income,Poverty rate,0.388,map
 Westville,income,Income,Poverty rate,0.101,map
 Wooster Square/Mill River,income,Income,Poverty rate,0.295,map
+New Haven,income,Income,Poverty rate,0.266,table
+Connecticut,income,Income,Poverty rate,0.105,table
 Amity,income,Income,Population low-income,1900.0,table
 Annex,income,Income,Population low-income,2911.0,table
 Beaver Hills,income,Income,Population low-income,2608.0,table
@@ -455,6 +501,8 @@ West River,income,Income,Population low-income,2260.0,table
 West Rock,income,Income,Population low-income,1154.0,table
 Westville,income,Income,Population low-income,1721.0,table
 Wooster Square/Mill River,income,Income,Population low-income,1688.0,table
+New Haven,income,Income,Population low-income,59530.0,table
+Connecticut,income,Income,Population low-income,456381.0,table
 Amity,income,Income,Low-income rate,0.396,map
 Annex,income,Income,Low-income rate,0.472,map
 Beaver Hills,income,Income,Low-income rate,0.472,map
@@ -474,6 +522,8 @@ West River,income,Income,Low-income rate,0.604,map
 West Rock,income,Income,Low-income rate,0.559,map
 Westville,income,Income,Low-income rate,0.196,map
 Wooster Square/Mill River,income,Income,Low-income rate,0.499,map
+New Haven,income,Income,Low-income rate,0.488,table
+Connecticut,income,Income,Low-income rate,0.131,table
 Amity,income,Income,Population high-income,834.0,table
 Annex,income,Income,Population high-income,817.0,table
 Beaver Hills,income,Income,Population high-income,1129.0,table
@@ -493,6 +543,8 @@ West River,income,Income,Population high-income,410.0,table
 West Rock,income,Income,Population high-income,708.0,table
 Westville,income,Income,Population high-income,3223.0,table
 Wooster Square/Mill River,income,Income,Population high-income,770.0,table
+New Haven,income,Income,Population high-income,22441.0,table
+Connecticut,income,Income,Population high-income,1378615.0,table
 Amity,income,Income,High-income rate,0.174,map
 Annex,income,Income,High-income rate,0.132,map
 Beaver Hills,income,Income,High-income rate,0.233,map
@@ -512,6 +564,8 @@ West River,income,Income,High-income rate,0.11,map
 West Rock,income,Income,High-income rate,0.168,map
 Westville,income,Income,High-income rate,0.44,map
 Wooster Square/Mill River,income,Income,High-income rate,0.228,map
+New Haven,income,Income,High-income rate,0.184,table
+Connecticut,income,Income,High-income rate,0.396,table
 Amity,income_kids,Income by age: children,"Ages 0-17, poverty status known",1278.0,table
 Annex,income_kids,Income by age: children,"Ages 0-17, poverty status known",1380.0,table
 Beaver Hills,income_kids,Income by age: children,"Ages 0-17, poverty status known",1507.0,table
@@ -531,6 +585,8 @@ West River,income_kids,Income by age: children,"Ages 0-17, poverty status known"
 West Rock,income_kids,Income by age: children,"Ages 0-17, poverty status known",878.0,table
 Westville,income_kids,Income by age: children,"Ages 0-17, poverty status known",1673.0,table
 Wooster Square/Mill River,income_kids,Income by age: children,"Ages 0-17, poverty status known",568.0,table
+New Haven,income_kids,Income by age: children,"Ages 0-17, poverty status known",28547.0,table
+Connecticut,income_kids,Income by age: children,"Ages 0-17, poverty status known",774939.0,table
 Amity,income_kids,Income by age: children,Children in poverty,421.0,table
 Annex,income_kids,Income by age: children,Children in poverty,557.0,table
 Beaver Hills,income_kids,Income by age: children,Children in poverty,432.0,table
@@ -550,6 +606,8 @@ West River,income_kids,Income by age: children,Children in poverty,376.0,table
 West Rock,income_kids,Income by age: children,Children in poverty,466.0,table
 Westville,income_kids,Income by age: children,Children in poverty,36.0,table
 Wooster Square/Mill River,income_kids,Income by age: children,Children in poverty,263.0,table
+New Haven,income_kids,Income by age: children,Children in poverty,10755.0,table
+Connecticut,income_kids,Income by age: children,Children in poverty,110916.0,table
 Amity,income_kids,Income by age: children,Child poverty rate,0.329,map
 Annex,income_kids,Income by age: children,Child poverty rate,0.404,map
 Beaver Hills,income_kids,Income by age: children,Child poverty rate,0.287,map
@@ -569,6 +627,8 @@ West River,income_kids,Income by age: children,Child poverty rate,0.399,map
 West Rock,income_kids,Income by age: children,Child poverty rate,0.531,map
 Westville,income_kids,Income by age: children,Child poverty rate,0.022,map
 Wooster Square/Mill River,income_kids,Income by age: children,Child poverty rate,0.463,map
+New Haven,income_kids,Income by age: children,Child poverty rate,0.377,table
+Connecticut,income_kids,Income by age: children,Child poverty rate,0.143,table
 Amity,income_kids,Income by age: children,Low-income children,669.0,table
 Annex,income_kids,Income by age: children,Low-income children,870.0,table
 Beaver Hills,income_kids,Income by age: children,Low-income children,819.0,table
@@ -588,6 +648,8 @@ West River,income_kids,Income by age: children,Low-income children,711.0,table
 West Rock,income_kids,Income by age: children,Low-income children,665.0,table
 Westville,income_kids,Income by age: children,Low-income children,135.0,table
 Wooster Square/Mill River,income_kids,Income by age: children,Low-income children,414.0,table
+New Haven,income_kids,Income by age: children,Low-income children,18086.0,table
+Connecticut,income_kids,Income by age: children,Low-income children,232822.0,table
 Amity,income_kids,Income by age: children,Child low-income rate,0.523,map
 Annex,income_kids,Income by age: children,Child low-income rate,0.63,map
 Beaver Hills,income_kids,Income by age: children,Child low-income rate,0.543,map
@@ -607,6 +669,8 @@ West River,income_kids,Income by age: children,Child low-income rate,0.755,map
 West Rock,income_kids,Income by age: children,Child low-income rate,0.757,map
 Westville,income_kids,Income by age: children,Child low-income rate,0.081,map
 Wooster Square/Mill River,income_kids,Income by age: children,Child low-income rate,0.729,map
+New Haven,income_kids,Income by age: children,Child low-income rate,0.634,table
+Connecticut,income_kids,Income by age: children,Child low-income rate,0.3,table
 Amity,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",421.0,table
 Annex,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",583.0,table
 Beaver Hills,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",537.0,table
@@ -626,6 +690,8 @@ West River,income_seniors,Income by age: seniors,"Ages 65+, poverty status known
 West Rock,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",448.0,table
 Westville,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",1091.0,table
 Wooster Square/Mill River,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",307.0,table
+New Haven,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",12915.0,table
+Connecticut,income_seniors,Income by age: seniors,"Ages 65+, poverty status known",520371.0,table
 Amity,income_seniors,Income by age: seniors,Seniors in poverty,49.0,table
 Annex,income_seniors,Income by age: seniors,Seniors in poverty,118.0,table
 Beaver Hills,income_seniors,Income by age: seniors,Seniors in poverty,76.0,table
@@ -645,6 +711,8 @@ West River,income_seniors,Income by age: seniors,Seniors in poverty,51.0,table
 West Rock,income_seniors,Income by age: seniors,Seniors in poverty,104.0,table
 Westville,income_seniors,Income by age: seniors,Seniors in poverty,89.0,table
 Wooster Square/Mill River,income_seniors,Income by age: seniors,Seniors in poverty,77.0,table
+New Haven,income_seniors,Income by age: seniors,Seniors in poverty,1982.0,table
+Connecticut,income_seniors,Income by age: seniors,Seniors in poverty,37164.0,table
 Amity,income_seniors,Income by age: seniors,Senior poverty rate,0.116,map
 Annex,income_seniors,Income by age: seniors,Senior poverty rate,0.202,map
 Beaver Hills,income_seniors,Income by age: seniors,Senior poverty rate,0.142,map
@@ -664,6 +732,8 @@ West River,income_seniors,Income by age: seniors,Senior poverty rate,0.173,map
 West Rock,income_seniors,Income by age: seniors,Senior poverty rate,0.232,map
 Westville,income_seniors,Income by age: seniors,Senior poverty rate,0.082,map
 Wooster Square/Mill River,income_seniors,Income by age: seniors,Senior poverty rate,0.251,map
+New Haven,income_seniors,Income by age: seniors,Senior poverty rate,0.153,table
+Connecticut,income_seniors,Income by age: seniors,Senior poverty rate,0.071,table
 Amity,income_seniors,Income by age: seniors,Low-income seniors,124.0,table
 Annex,income_seniors,Income by age: seniors,Low-income seniors,267.0,table
 Beaver Hills,income_seniors,Income by age: seniors,Low-income seniors,158.0,table
@@ -683,6 +753,8 @@ West River,income_seniors,Income by age: seniors,Low-income seniors,101.0,table
 West Rock,income_seniors,Income by age: seniors,Low-income seniors,256.0,table
 Westville,income_seniors,Income by age: seniors,Low-income seniors,208.0,table
 Wooster Square/Mill River,income_seniors,Income by age: seniors,Low-income seniors,143.0,table
+New Haven,income_seniors,Income by age: seniors,Low-income seniors,5588.0,table
+Connecticut,income_seniors,Income by age: seniors,Low-income seniors,123911.0,table
 Amity,income_seniors,Income by age: seniors,Senior low-income rate,0.295,map
 Annex,income_seniors,Income by age: seniors,Senior low-income rate,0.458,map
 Beaver Hills,income_seniors,Income by age: seniors,Senior low-income rate,0.294,map
@@ -702,3 +774,5 @@ West River,income_seniors,Income by age: seniors,Senior low-income rate,0.342,ma
 West Rock,income_seniors,Income by age: seniors,Senior low-income rate,0.571,map
 Westville,income_seniors,Income by age: seniors,Senior low-income rate,0.191,map
 Wooster Square/Mill River,income_seniors,Income by age: seniors,Senior low-income rate,0.466,map
+New Haven,income_seniors,Income by age: seniors,Senior low-income rate,0.433,table
+Connecticut,income_seniors,Income by age: seniors,Senior low-income rate,0.238,table
