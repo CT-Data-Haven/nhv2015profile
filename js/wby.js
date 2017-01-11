@@ -400,28 +400,18 @@ function colorMap(csv, indicator) {
 
     var indicValues = nested.get(indicator);
 
+    // temp
+    globaldata = indicValues;
+
     var tip = d3.tip()
         .attr('class', 'd3-tip');
 
-    // var color;
-    //     // .domain(d3.extent(indicValues, function(d) { return +d.value; }));
-    // var max = d3.max(indicValues, function(d) { return +d.value; });
-    // if (max >= 1.0) {
-    //     color = d3.scaleLinear()
-    //         .domain([d3.min(indicValues, function(d) { return +d.value; }),
-    //                     1.0,
-    //                     d3.max(indicValues, function(d) { return +d.value; })
-    //     ])
-    //         .range(['#dc143c','#eeeeee','#4b0082']);
-    // } else {
-    //     color = d3.scaleQuantize()
-    //         .domain(d3.extent(indicValues, function(d) { return +d.value; }))
-    //         .range(d3.schemePurples[5]);
-    // }
-    var color = d3.scaleQuantize()
-        .domain(d3.extent(indicValues, function(d) { return +d.value; }))
-        .range(d3.schemePurples[5]);
+    var vals = indicValues.map(function(d) { return +d.value; });
+    var breaks = ss.ckmeans(vals, 5).map(function(val) { return val[0]; }).slice(1);
 
+    var color = d3.scaleThreshold()
+        .domain(breaks)
+        .range(d3.schemePurples[5]);
 
 
     // object to match names of neighborhoods with values from indicValues
@@ -454,11 +444,25 @@ function colorMap(csv, indicator) {
     svg.append('g')
         .attr('class', 'legendQuant')
         .attr('transform', 'translate(30,' + 400 + ')');
+
+    // have to redo threshold label helper from d3-legend
     var legend = d3.legendColor()
         .labelFormat(d3.format('.0%'))
+        .labels(thresholdLabels)
         .useClass(false)
         .scale(color);
     svg.select('.legendQuant').call(legend);
+
+}
+
+function thresholdLabels(l) {
+    if (l.i === 0) {
+        return l.generatedLabels[l.i].replace('NaN% to', 'Less than');
+    } else if (l.i === l.genLength - 1) {
+        var str = 'More than ' + l.generatedLabels[l.genLength - 1];
+        return str.replace(' to NaN%', '');
+    }
+    return l.generatedLabels[l.i];
 }
 
 function mouseOverPoly(poly, hoodMap) {

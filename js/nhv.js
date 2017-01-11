@@ -401,8 +401,15 @@ function colorMap(csv, indicator) {
     var tip = d3.tip()
         .attr('class', 'd3-tip');
 
-    var color = d3.scaleQuantize()
-        .domain(d3.extent(indicValues, function(d) { return +d.value; }))
+    // var color = d3.scaleQuantize()
+    //     .domain(d3.extent(indicValues, function(d) { return +d.value; }))
+    //     .range(d3.schemePurples[5]);
+    
+    var vals = indicValues.map(function(d) { return +d.value; });
+    var breaks = ss.ckmeans(vals, 5).map(function(val) { return val[0]; }).slice(1);
+
+    var color = d3.scaleThreshold()
+        .domain(breaks)
         .range(d3.schemePurples[5]);
 
     // object to match names of neighborhoods with values from indicValues
@@ -437,9 +444,20 @@ function colorMap(csv, indicator) {
         .attr('transform', 'translate(30,' + 400 + ')');
     var legend = d3.legendColor()
         .labelFormat(d3.format('.0%'))
+        .labels(thresholdLabels)
         .useClass(false)
         .scale(color);
     svg.select('.legendQuant').call(legend);
+}
+
+function thresholdLabels(l) {
+    if (l.i === 0) {
+        return l.generatedLabels[l.i].replace('NaN% to', 'Less than');
+    } else if (l.i === l.genLength - 1) {
+        var str = 'More than ' + l.generatedLabels[l.genLength - 1];
+        return str.replace(' to NaN%', '');
+    }
+    return l.generatedLabels[l.i];
 }
 
 function mouseOverPoly(poly, hoodMap) {
